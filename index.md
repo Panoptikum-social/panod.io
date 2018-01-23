@@ -11,9 +11,7 @@ Möchten Sie lieber die [Deutsche Version](/index_de)?
 
 # Panod.io
 
-## tl;dr
-
->  It's time for Panod.io, an audio only interface to the acoustic web.
+> tl;dr: It's time for Panod.io, an audio only interface to the acoustic web.
 
 
 ## Management Summary
