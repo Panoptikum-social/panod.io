@@ -15,3 +15,5 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {color: #a4b485;}
 
 .form-control {color: #ccc; background-color: #444; border-color: #000;}
 .btn-default {color: #ccc; background-color: #444; border: none;}
+
+.navbar-default .navbar-text, .navbar-default .navbar-nav > li > a {color: #3BAFDA;}

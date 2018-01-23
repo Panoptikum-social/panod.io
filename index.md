@@ -1,8 +1,13 @@
 ---
-title: Home
+title: Home/EN
 layout: default
 navigation: 0
 ---
+
+Möchten Sie lieber die [Deutsche Version](/index_de)?
+{: class="text-center"}
+
+<hr/>
 
 # Panod.io
 
