@@ -39,6 +39,7 @@ permalink: plan_de/
 * Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s,
   Blindenhörbüchereien in A und D
 
+<hr/>
 
 ## 2 Beschreibung des Projektes
 
@@ -151,6 +152,7 @@ in der Reihenfolge des Projekteintrittes:
   * Programming Phoenix
   * Programming Elixir
 
+<hr/>
 
 ## 3 Umfeldanalyse und Verwertungsmöglichkeiten
 
@@ -252,6 +254,7 @@ nicht nur per Webbrowser publizieren, sondern Inhalte wären auch per Sprachnavi
 * Daten werden nur gespeichert, wenn nötig, soweit möglich nur am Device und nicht im Web-Backend
 * Im Web-backend besteht keine Klarnamenpflicht
 
+<hr/>
 
 ## 4 Projektaufwand
 
