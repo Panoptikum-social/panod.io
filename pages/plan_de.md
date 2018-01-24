@@ -16,7 +16,7 @@ permalink: plan_de/
   Acoustic Web, a.k.a. Podcasts
 * Panod.io verwendet die Daten der bereits existierenden und in Österreich durch das Projektteam
   entwickelten und betriebenen Plattform Panoptikum https://panoptikum.io
-* Es kommt zu einer weiteren Vernetzung österreichischer Podcaster:innen mit internationalem Publikum
+* Es kommt zu einer weiteren Vernetzung lokal agierenden Podcaster:innen mit internationalem Publikum
 
 ### So wird das Ergebnis der Öffentlichkeit zur Verfügung gestellt
 
