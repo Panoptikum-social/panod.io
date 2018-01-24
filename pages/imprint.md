@@ -5,16 +5,38 @@ navigation: 99
 permalink: imprint/
 ---
 
-# Media Owner and Content
+# Imprint
 
-... put in information here ...
+## Media Owner and Content
 
-# Links
+Stefan Haslinger<br/>
+Vorgartenstraße 145/2/3<br/>
+1020 Wien<br/>
+Austria
 
-... put in information here ...
+Twitter: [@panodio](https://www.twitter.com/panodio)<br/>
+Email: <stefan@panodio.io>
 
 
-# License
+## License
 
-... use cc by as below or put in information here ...
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+<p>
+  This work is licensed under a
+  <a rel="license"
+     href="http://creativecommons.org/licenses/by-sa/4.0/">
+    Creative Commons Attribution-ShareAlike 4.0 International License
+  </a>.
+</p>
+
+<a rel="license"
+   href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License"
+       style="margin: 0px;"
+       src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+
+
+## Hosting
+
+Panod.io is hosted by<br/>
+<a href="https://www.informatom.com">Informatom EDV-Dienstleistungen e.U.</a>
