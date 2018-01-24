@@ -8,9 +8,9 @@ permalink: plan_de/
 # Unser Plan
 
 
-## Projektcharakteristik
+## 1 Projektcharakteristik
 
-### Bedeutung für das Internet
+### 1.1 Bedeutung für das Internet
 
 * Usergruppen, denen das WWW bislang verwehrt ist, erhalten einen barrierefreien Zugang zum
   Acoustic Web, a.k.a. Podcasts
@@ -18,7 +18,7 @@ permalink: plan_de/
   entwickelten und betriebenen Plattform Panoptikum https://panoptikum.io
 * Es kommt zu einer weiteren Vernetzung lokal agierenden Podcaster:innen mit internationalem Publikum
 
-### So wird das Ergebnis der Öffentlichkeit zur Verfügung gestellt
+### 1.2 So wird das Ergebnis der Öffentlichkeit zur Verfügung gestellt
 
 * Download einer Smartphone und Tablet-Applikation mit Sprachinterface für Android sowohl auf
   Webseite des Projektes, freien App-Stores wie F-Droid als auch dem Google App Store
@@ -28,7 +28,7 @@ permalink: plan_de/
   Anonymität zu gewährleisten)
 * keine Verbindung zu Accounts auf großen Plattformen
 
-### So erreicht das Projekt eine möglichst große Zahl von Nutzern
+### 1.3 So erreicht das Projekt eine möglichst große Zahl von Nutzern
 
 * Talks auf Konferenzen, geplant: A-Tag'17, SHA, Subscribe, 34C3, Podcasting Meetups, Privacy Week,
   Meetup-Szene, Project Night, Webclerks, Android Heads Meetup Vienna, ...
@@ -40,9 +40,9 @@ permalink: plan_de/
   Blindenhörbüchereien in A und D
 
 
-## Beschreibung des Projektes
+## 2 Beschreibung des Projektes
 
-### Projektziele
+### 2.1 Projektziele
 
 * Android Applikation mit Sprachinterface
 * Zugang zu mehr als 1 Million Podcast Episoden der Datenbank über die API von Panoptikum
@@ -51,14 +51,14 @@ permalink: plan_de/
 * Verfügbarkeit in mindestens drei App Stores
 * Dokumentation des Projekts in deutscher und englischer Sprache
 
-### Stand der Technik / Methode
+### 2.2 Stand der Technik / Methode
 
 * Speech to Text (Benutzer:in muss sprechen und hören können)
 * Natural Language Processing zur Erkennung der Absicht (Intent)
 * Suche nach gewünschten Inhalten in Panoptikum und verbale Präsentation der Ergebnisse
 * Wiedergabe oder Einreihung in Playlist
 
-### Lösungsvorschläge
+### 2.3 Lösungsvorschläge
 
 * Android Speech-to-Text API
 * Spracherkennung - Natural Language Processing
@@ -67,7 +67,7 @@ permalink: plan_de/
 * Smartphone (klein, Kopfhörer / relativ kleine Lautsprecher)
 * Tablet (größere Lautsprecher)
 
-### Risiken
+### 2.4 Risiken
 
 * Qualität der Texterkennung in Deutsch
 * Qualität des Datenmodels
@@ -75,7 +75,7 @@ permalink: plan_de/
 * Verfügbarkeit von Usern mit unterschiedlichen Bedürfnissen bei den Acceptance Tests
 * Unterstützung älterer Android Versionen, um möglichst viele vorhandene Devices nutzen zu können
 
-### Grober Zeitplan
+### 2.5 Grober Zeitplan
 
 * 2 Monate: Pre-Project Marketing: SHA, 34C3, Subscribe
 * 1 Monat: Setup Team und Entwicklung
@@ -87,7 +87,7 @@ permalink: plan_de/
 * 2 Monate: Marketing und Launch
 * begleitend 12 Monate: Kongresse und Meetups
 
-### Detaillierter Arbeitsplan
+### 2.6 Detaillierter Arbeitsplan
 
 * Pre-Project Marketing 60 Stunden
 * Setup: 100 Stunden
@@ -101,7 +101,7 @@ permalink: plan_de/
 * Dokumentation: 100 Stunden
 * Projektleitung: 100 Stunden
 
-### Messkriterien
+### 2.7 Messkriterien
 
 |Beschreibung |min. Erfolg |ausgez. Erfolg bei|
 |verfügbare Sprachen |1 |3|
@@ -111,7 +111,7 @@ permalink: plan_de/
 |Verfügbarkeit in Stores |3 |5|
 {: .table .table-bordered}
 
-### Angaben zur fachlichen Eignung der verantwortlichen Projektmitarbeiter
+### 2.8 Angaben zur fachlichen Eignung der verantwortlichen Projektmitarbeiter
 
 in der Reihenfolge des Projekteintrittes:
 
@@ -139,7 +139,7 @@ in der Reihenfolge des Projekteintrittes:
 * Indigo / Beratung
   * Studium der Informatik, Spezialisierung künstliche Intelligenz
 
-### Wesentliche Literatur
+### 2.9 Wesentliche Literatur
 
 * Android Speech-to-Text API (Recognizer Intent)
 * CMUSphinx Tutorial: https://cmusphinx.github.io/wiki/tutorial/
@@ -152,9 +152,9 @@ in der Reihenfolge des Projekteintrittes:
   * Programming Elixir
 
 
-## Umfeldanalyse und Verwertungsmöglichkeiten
+## 3 Umfeldanalyse und Verwertungsmöglichkeiten
 
-### Derzeitige Aktivitäten im Projektbereich
+### 3.1 Derzeitige Aktivitäten im Projektbereich
 
 Entwicklung und Betrieb von Panoptikum.io:
 
@@ -162,14 +162,14 @@ Entwicklung und Betrieb von Panoptikum.io:
 * Metainformationen auf: https://blog.panoptikum.io/
 * Beleg für kontinuierliche Entwicklung im wöchentlichen Blog: https://blog.panoptikum.io/blog/
 
-### Unser USP im Vergleich zu bereits vorhandenen Lösungen anderer Anbieter
+### 3.2 Unser USP im Vergleich zu bereits vorhandenen Lösungen anderer Anbieter
 
 * Einfaches Berühren der Bildschirmfläche startet Sprachinterface
 * Keinerlei Visus (Fähigkeit zu sehen) nötig
 * Keine spezielle Hardware nötig, Kompatibilität zu unzähligen Android Smartphones und Tablets
 * sämtliche Software (auch die des Panoptikum Verzeichnisses) ist Open Source
 
-### Gesamtzielgruppe
+### 3.3 Gesamtzielgruppe
 
 Wir greifen hier nur die größte Gruppe der Sehbehinderten heraus, die Anwendung ist aber für alle
 sprechenden, hörenden Menschen verwendbar:
@@ -178,7 +178,7 @@ sprechenden, hörenden Menschen verwendbar:
 * Sehbehinderte Deutschland \~ 1.800.000
 * Sehbehinderte weltweit \~ 285.000.000
 
-### Vorteile für die Benutzer
+### 3.4 Vorteile für die Benutzer
 
 * Nach der Installation müssen keine visuellen Interfaces mehr bedient werden können, es reicht
   Sprache
@@ -188,7 +188,7 @@ sprechenden, hörenden Menschen verwendbar:
 * keine Accounts bei großen Plattformen, die Daten kommerziell verwerten, nötig (Facebook, Google,
   Amazon)
 
-### Nachhaltige Nutzung
+### 3.5 Nachhaltige Nutzung
 
 * Software wird AGPL 3 lizensiert, ist daher weiter frei aktualisier- und erweiterbar
 * AGPL garantier, dass es zukünftig keine Einschränkungen der Lizenzbedingungen gibt
@@ -207,7 +207,7 @@ Erweiterung zusätzlich zu Podcasts nach 2018:
 * Integration von Content, der durch Blindenhörbüchereien derzeit per Daisy(\~MP3)-CDs verteilt wird
 * Audiokommunikation zwischen Nutzern (Voice Chat) insgesamt: Zugang zum gesamten Acoustic Web.
 
-### Geistiges Eigentum
+### 3.6 Geistiges Eigentum
 
 Sämtliche Artefakte werden unter der AGPL3 publiziert:
 
@@ -218,7 +218,7 @@ Sämtliche Artefakte werden unter der AGPL3 publiziert:
 * Doku für Anwender:innen auf der Webseite (https://panod.io) * Infomaterialien für
   Kooperationspartner auf der Webseite des Projektes
 
-### Ergeben sich wirtschaftlich oder wissenschaftlich interessante Kooperationen?
+### 3.7 Ergeben sich wirtschaftlich oder wissenschaftlich interessante Kooperationen?
 
 * (Blinden-)Hörbüchereien
 * Rundfunkanstalten
@@ -227,35 +227,35 @@ Sämtliche Artefakte werden unter der AGPL3 publiziert:
 * Hersteller von Blindenhilfsmitteln (in Ö: Baum Retec GmbH)
 * Podcastplattformen: Google (Podcast Store, derzeit nur in US), Apple, Amazon, ...
 
-### Gibt es positive regionalpolitische Aspekte?
+### 3.8 Gibt es positive regionalpolitische Aspekte?
 
 Kommunen und andere Institutionen mit Vorleseservices (z.B. Gemeinde Wien) könnten Inhalte damit
 nicht nur per Webbrowser publizieren, sondern Inhalte wären auch per Sprachnavigation verfügbar.
 
-### Ergeben sich beachtenswerte soziale, gesellschaftliche bzw. Umwelt-Aspekte
+### 3.9 Ergeben sich beachtenswerte soziale, gesellschaftliche bzw. Umwelt-Aspekte
 
 * Weiterbildung (über 1000 wissenschaftliche Podcasts) führt zu besserer Employability
 * größerer Fokus geht auf das akustische Web, das bislang wenig Beachtung findet (Spoken Wikipedia
   ist weitgehend unbekannt)
 * Bislang nicht im Netz aktive Personen sind nicht mehr vom Internet ausgeschlossen
 
-### Welche besondere Relevanz hat unser Projekt für das Thema "Closing the gender gap"?
+### 3.10 Welche besondere Relevanz hat unser Projekt für das Thema "Closing the gender gap"?
 
 * Sprachinterface bringt niedrigere technische Einstiegsschwelle
 * bessere Tauglichkeit für ältere, sehbehinderte, bislang nicht im Internet agierende Nutzerinnen
 * Einstieg in die Welt der Podcasts ohne technisches Vorverständnis möglich
 * keine Einschulung nötig, das Device spricht mit den Benutzerinnen
 
-### Welche besondere Relevanz hat unser Projekt für das Thema "Privacy by Design"?
+### 3.11 Welche besondere Relevanz hat unser Projekt für das Thema "Privacy by Design"?
 
 * Entwicklung nach den Prinzipien der Datensparsamkeit
 * Daten werden nur gespeichert, wenn nötig, soweit möglich nur am Device und nicht im Web-Backend
 * Im Web-backend besteht keine Klarnamenpflicht
 
 
-## Projektaufwand
+## 4 Projektaufwand
 
-### Personalaufwand in Stunden
+### 4.1 Personalaufwand in Stunden
 
 | Beschreibung | Aufwand (Stunden) |
 | Dokumentation - Stefan, Ramon und Sonja | 100|
@@ -266,7 +266,7 @@ nicht nur per Webbrowser publizieren, sondern Inhalte wären auch per Sprachnavi
 | Summe | 1390|
 {: .table .table-bordered}
 
-### Sonstige Kosten in EUR
+### 4.2 Sonstige Kosten in EUR
 
 | Beschreibung | Betrag (EUR) |
 | Hosting, Domain, Mailservice | 500|
