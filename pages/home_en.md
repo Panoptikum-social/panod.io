@@ -2,6 +2,7 @@
 title: Home/EN
 layout: default
 navigation: 0
+permalink: /
 ---
 
 Möchten Sie lieber die [Deutsche Version](/index_de)?
