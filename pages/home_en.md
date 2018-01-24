@@ -5,7 +5,7 @@ navigation: 0
 permalink: /
 ---
 
-Möchten Sie lieber die [Deutsche Version](/index_de)?
+Möchten Sie lieber die [Deutsche Version](/home_de)?
 {: class="text-center"}
 
 <hr/>
