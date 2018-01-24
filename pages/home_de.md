@@ -2,7 +2,7 @@
 title: Home/DE
 layout: default
 navigation: 1
-permalink: index_de/
+permalink: home_de/
 ---
 
 Do you prefer the [English version](/)?
@@ -30,7 +30,18 @@ Audio-Inhalten des World Wide Webs.
 
 ## Aktueller Stand
 
+... in Arbeit
+
 ## Unser Plan
+
+Wir haben - ursprünglich für einen Projektförderantrag gedacht, einen ausführlichen Projektplan
+gemacht. Diesen Plan haben wir nun aktualisiert, Sie finden ihn unter [Plan/DE](/plan_de).
+
+Falls Sie lieber, statt lange zu lesen, sehen und hören möchten, wie wir spielerisch Panod.io
+erklären:
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc"></iframe>
 
 ## Unsere Vision
 
+... in Arbeit
