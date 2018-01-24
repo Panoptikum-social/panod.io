@@ -8,8 +8,6 @@ permalink: /
 Möchten Sie lieber die [Deutsche Version](/home_de)?
 {: class="text-center"}
 
-<hr/>
-
 # Panod.io
 
 > tl;dr: It's time for Panod.io, an audio only interface to the acoustic web.
@@ -31,4 +29,3 @@ or tablets to access the huge amount of audio content available on the World wid
 ## Our plan
 
 ## Our vision
-
