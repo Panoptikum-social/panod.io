@@ -32,7 +32,7 @@ Audio-Inhalten des World Wide Webs.
 
 Momentan verfügen wir mit [Panoptikum.io](https://panoptikum.io) über eine Datenquelle von 1.800.000
 Episoden aus 30.000 Podcasts, unterschiedlichster Themen, Qualität, Länge und Sprachen. Menschen
-empfehlen und 'liken' Podcasts, Epsisoden und Chapters. In den Metadaten und damit auch in den Show
+empfehlen und 'liken' Podcasts, Episoden und Kapitel. In den Metadaten und damit auch in den Show
 Notes kann per Suchmaschine nach Inhalten gesucht werden. Erste Podcaster:innen pflegen ihre
 Profile. Es handelt sich im Social Network mit dem Fokus auf Podcasts.
 
@@ -63,7 +63,7 @@ erklären, klicken Sie auf das Video:
 ## Unsere Vision
 
 *Entweder nehmen wir die Bildung wieder in die Hand, oder Trends, Fake News und Shitstorms auf
-Facebook, Instragram and Whatsapp sowie deren Nachfolgern werden die main influencer. Wir können das
+Facebook, Instagram and Whatsapp sowie deren Nachfolgern werden die main influencer. Wir können das
 ändern.*
 
 In heutigen Ausbildungsszenarien kommen auf ein:e Lehrer:in
@@ -76,7 +76,7 @@ Verfügung stehen und bei der Aus-/Bildung im Sinne eine:r idealen Mentor:in unt
 
 Indigo wird in Kollaboration vieler Menschen entstanden, ihre Algorithmen und Daten sind Open Source
 bzw. Open Data. Wissenschaftler:innen aus vielen Bereichen werden bei der Entstehung beigetragen,
-begleiten ihre Weiterentwicklung aber kontinuierlich und erforschen an ihr die erstmalige
+begleiten ihre Weiterentwicklung kontinuierlich und erforschen an ihr die erstmalige
 Entwicklung einer starken künstlichen Intelligenz.
 
 Dabei sind viele Aspekte zu berücksichtigen, eine unvollständige Aufzählung:
@@ -94,5 +94,6 @@ Dabei sind viele Aspekte zu berücksichtigen, eine unvollständige Aufzählung:
 * Bildung und Ausbildung
 
 Ziel der Formulieren dieser Vision ist das Nachdenken über die Zukunft der Bildung anzuregen
-und das Finden von Menschen, die an Panoptikum und später der Schaffung von Indigo mitwirken möchten.
+und das Finden von Menschen, die an Panod.io und später der Schaffung von Indigo mitwirken möchten.
+
 Aus Panod.io wird Indigo.
