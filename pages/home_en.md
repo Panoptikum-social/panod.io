@@ -46,8 +46,8 @@ If you prefer, instead of reading a long text, to watch a short movie, how we pr
 
 *Either we as a society take controll of education, or trends, fake news and shit storms on Facebook, Instagram and Whatsapp or their successors will become the main influencers. We can change that.*
 
-In current educationsal settings one teachers has to take care for 15 pupils at least, often for more than
-30. So lots of questions stay unanswered, social media take over more and more roles in training and
+In current educationsal settings one teachers has to take care for 15 pupils at least, often for more 
+than 30. So lots of questions stay unanswered, social media take over more and more roles in training and
 education.
 
 Our Vision has got a name - Indigo. Indigo is a possible instance of a learning assistant, that still has
