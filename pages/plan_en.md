@@ -7,7 +7,7 @@ permalink: plan_en/
 
 # Our Plan
 
-## 1 Project characteristics
+## 1 Project Characteristics
 
 ### 1.1 Relevance for the Internet
 
@@ -18,7 +18,7 @@ permalink: plan_en/
 * Further linking of local acting podcasters to international audiences
 
 
-### 1.2 How is the product made available to the public?
+### 1.2 How is the Product Made Available to the Public?
 
 * Download an Android application with audio interface for tabletts and smartphones from the website
   of the project as well as free app stores like F-Droid and from the Google App Store
