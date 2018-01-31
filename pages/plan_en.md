@@ -1,7 +1,7 @@
 ---
 title: Plan/EN
 layout: default
-navigation: 2
+navigation: 3
 permalink: plan_en/
 ---
 
