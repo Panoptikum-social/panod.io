@@ -13,7 +13,7 @@ permalink: plan_en/
 
 * potential user groups, who have been denied from the WWW up to now, get barrier free access to the
   acountstic web, a.k.a. podcasts
-* Panod.io uses data of the already existing platform Panoptikum https://panoptikum.io, that is 
+* Panod.io uses data of the already existing platform Panoptikum https://panoptikum.io, that is
   developed, maintained and hosted in Austria by the project team.
 * Further linking of local acting podcasters to international audiences
 
@@ -28,122 +28,126 @@ permalink: plan_en/
   to preserve their anonymity)
 * No connection or correlation to accounts on the major commercial platforms.
 
+
+### 1.3 This is how the Project Reaches as many Users as Possible
+
+* Talks at conferences, planned: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
+  Privacy Week, other meetups in the meetup scene Vienna: Project Night, Webclerks, Android Heads
+  Meetup Vienna, ...
+* Distribution via the podcasting community, that is the podcasters who are panoptikum users
+* Making use of the existing platform and community of Panoptikum.io
+* Projekt home page
+* Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s, libraries for the
+  blind in Austria and Germany
+
+<hr/>
+
+## 2 Project Description
+
+### 2.1 Project Goals
+
+* Android application with audio only interface
+* Access to more than 1.800.000 podcast episodes from the database via the Panoptikum API
+* No manual action for using the application necessary
+* barrier free project web site to download the application, Descriptions in text and audio format
+* Availability in three app stores at least
+* Project documentation in German and English
+
+### 2.2 State of the Art Technology & Methond
+
+
+* Speech to Text (User has to be able to speak and talk as the only prerequisites)
+* Natural Language Processing to recognize the intent
+* Search for desired content within Panoptikum and verbal presentation of the search results
+* Playback or appending to play list
+
+### 2.3 Solutions and Suggestions
+
+* Android Speech-to-Text API
+* Speech recognition - Natural Language Processing
+* Android application (wide adoption of devices, high availability for reasonably priced devices)
+* Requests to the data base of Panoptikum via web requests (API)
+* smartphones (small, head phone usage, small loud speakers, usage off the power grid)
+* tabletts (bigger, better sounding load speakers, usage off the power grid)
+
+### 2.4 Risks
+
+* Quality of speech to text recognition in German
+* Quality of the data model
+* User interface needs to be intuitive
+* Availability of users with diverse demands for acceptance testing
+* Support of older Android phones, to be able to use as many smart phones as possible at hand
+
+### 2.5 Rough Time Estimates
+
+* 2 months: pre project marketing: Subscribe, Meetups, Re:Publica
+* 1 month: setup of team und and development stack
+* 1 month: test and selection of components used
+* 3 months: development of minimal application
+* 2 months: tests
+* 2 months: further development of application
+* 2 months: Deployment
+* 2 months: Marketing and launch
+* in parallel 12 Monate: congresses and meetups
+
+### 2.6 Time Estimates in More Detail
+
+* Pre-Project marketing 60 hours
+* Setup: 100 hours
+* Test and selection of components: 120 hours
+* Development of minimal application: 300 hours
+* Tests with users with diverse demands und definiton of deviant requirements: 120 hours
+* Expansion of application and further development: 300 hours
+* Deployment and rollout tests: 150 hours
+* Marketing and launch: 200 hours
+* Congresses and meetups, marketing & media coverage: 120 hours
+* Documentation: 100 hours
+* Project lead: 100 hours
+
+### 2.7 Key Performance Indicatiors
+
+|Description |minimal success |excellent success |
+|Languages available |1 |3 |
+|Talks given at conferences and meetups |5 |10 |
+|Podcast episodes available |1 800 000 |2 500 000 |
+|Downloads (and installs) in 2018 |100 |1000 |
+|Availability in app stores |3 |5 |
+{: .table .table-bordered}
+
+### 2.8 Statement of Qualification of Project Contributors
+
+in the order of joining the project:
+
+* Stefan / projekt lead und development: https://stefan-haslinger.at/cv
+  * Java development starting 1997 at UT Vienna as scientific collaborator
+  * Developer Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
+  * 7 Jahre web application development: https://github.com/haslinger
+  * 7 Jahre SAP-development
+  * University degree in physics, mathematics and computer science education
+* Sonja / marketing & community: https://www.waldgruber.at
+  * produkt management at Austria's largest ISPs (EuNet, A1)
+  * UX testing internship for university degree in psychology (cognition psychologie) und as a
+    consultant in the insurance business
+  * organisator _Chaos macht Schule_ Austria
+  * lector Privacy Week Austria, _Internet für alle_
+  * University degrees in business and technology as well as psychology
+* Ramon / developer: http://ramonhuidobro.com/
+  * University education computer science
+  * Bachelor theses didactics of computer science
+  * organizer in the Viennese meetup scene for several years
+  * five years of Android- and web develoment
+* Heinz / Acceptance tests
+  * blind
+  * former head of the Austrian acoustic library for the war blind
+  * Doctor of law
+* Indigo / consulting
+  * University degree in computer science, specialized in artificial intelligence
+
 ---
 to be translated from here on ...
 
 ---
 
-### 1.3 So erreicht das Projekt eine möglichst große Zahl von Nutzern
-
-* Talks auf Konferenzen, geplant: A-Tag'17, SHA, Subscribe, 34C3, Podcasting Meetups, Privacy Week,
-  Meetup-Szene, Project Night, Webclerks, Android Heads Meetup Vienna, ...
-* Verbreitung über die Podcasting Community, d.h. die Podcaster:innen, deren Podcasts in der
-  Datenbank gelistet sind
-* Verwenden der existierenden Plattform und Community von Panoptikum
-* Projekt Homepage
-* Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s,
-  Blindenhörbüchereien in A und D
-
-<hr/>
-
-## 2 Beschreibung des Projektes
-
-### 2.1 Projektziele
-
-* Android Applikation mit Sprachinterface
-* Zugang zu mehr als 1 Million Podcast Episoden der Datenbank über die API von Panoptikum
-* keine manuelle Aktion zur Bedienung der Applikation nötig
-* barrierefreie Projektwebseite zum Download, Erklärung in Text und Ton
-* Verfügbarkeit in mindestens drei App Stores
-* Dokumentation des Projekts in deutscher und englischer Sprache
-
-### 2.2 Stand der Technik / Methode
-
-* Speech to Text (Benutzer:in muss sprechen und hören können)
-* Natural Language Processing zur Erkennung der Absicht (Intent)
-* Suche nach gewünschten Inhalten in Panoptikum und verbale Präsentation der Ergebnisse
-* Wiedergabe oder Einreihung in Playlist
-
-### 2.3 Lösungsvorschläge
-
-* Android Speech-to-Text API
-* Spracherkennung - Natural Language Processing
-* Android Applikation (große Verbreitung von verfügbaren Geräten)
-* Abfrage der Datenbank von Panoptikum per Web Requests
-* Smartphone (klein, Kopfhörer / relativ kleine Lautsprecher)
-* Tablet (größere Lautsprecher)
-
-### 2.4 Risiken
-
-* Qualität der Texterkennung in Deutsch
-* Qualität des Datenmodels
-* natürlich bedienbares Sprachinterface
-* Verfügbarkeit von Usern mit unterschiedlichen Bedürfnissen bei den Acceptance Tests
-* Unterstützung älterer Android Versionen, um möglichst viele vorhandene Devices nutzen zu können
-
-### 2.5 Grober Zeitplan
-
-* 2 Monate: Pre-Project Marketing: SHA, 34C3, Subscribe
-* 1 Monat: Setup Team und Entwicklung
-* 1 Monat: Test und Selektion der verwendeten Komponenten
-* 3 Monate: minimale Applikation
-* 2 Monate: Tests
-* 2 Monate: Erweiterung der Applikation
-* 2 Monate: Deployment
-* 2 Monate: Marketing und Launch
-* begleitend 12 Monate: Kongresse und Meetups
-
-### 2.6 Detaillierter Arbeitsplan
-
-* Pre-Project Marketing 60 Stunden
-* Setup: 100 Stunden
-* Test und Selektion der Komponenten: 120 Stunden
-* Entwicklung der minimalen Applikation: 300 Stunden
-* Tests mit Benutzern unterschiedlicher Bedürfnisse und Ermittlung abweichender Requirements: 120 Stunden
-* Erweiterung der Applikation: 300 Stunden
-* Deployment und Rollout Tests: 150 Stunden
-* Marketing und Launch: 200 Stunden
-* Kongresse & Meetups, Marketing & Medien: 120 Stunden
-* Dokumentation: 100 Stunden
-* Projektleitung: 100 Stunden
-
-### 2.7 Messkriterien
-
-|Beschreibung |min. Erfolg |ausgez. Erfolg bei|
-|verfügbare Sprachen |1 |3|
-|gehaltene Talks bei Meetups und Konferenzen   |5 |10|
-|Verfügbare Episoden von Podcasts |1 000 000 |2 500 000 |
-|Downloads in 2018 |100 |1000|
-|Verfügbarkeit in Stores |3 |5|
-{: .table .table-bordered}
-
-### 2.8 Angaben zur fachlichen Eignung der verantwortlichen Projektmitarbeiter
-
-in der Reihenfolge des Projekteintrittes:
-
-* Stefan / Projektleitung und Entwicklung: https://stefan-haslinger.at/cv
-  * Java Entwicklung ab 1997 an TU Wien als wiss. Mitarbeiter
-  * Entwicklung Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
-  * 7 Jahre Webapplikationentwicklung: https://github.com/haslinger
-  * 7 Jahre SAP-Entwicklung
-  * Studium PH, M, INF Lehramt
-* Sonja / Marketing & Community: https://www.waldgruber.at
-  * Produktmanagement bei ISPs (EuNet, A1)
-  * UX Tests im Rahrmen Studium Psychologie (Kognitionspsychologie) und als Consultant Versicherungsbranche
-  * Organisatorin Chaos macht Schule Ö
-  * Lektorin Privacy Week, Internet für alle
-  * Studium Wirtschaft & Technik
-* Ramon / Entwickler: http://ramonhuidobro.com/
-  * Studium Informatik
-  * Bachelor Arbeit Didaktik der Informatik
-  * langjähriger Organisator in Wiener Meetup Szene
-  * Android- und Webentwicklung
-* Heinz / Acceptance Tests
-  * blind
-  * ehemaliger Leiter der Hörbücherei der Kriegsblinden Österreichs
-  * Studium JUS
-* Indigo / Beratung
-  * Studium der Informatik, Spezialisierung künstliche Intelligenz
 
 ### 2.9 Wesentliche Literatur
 

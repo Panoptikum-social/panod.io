@@ -30,8 +30,8 @@ permalink: plan_de/
 
 ### 1.3 So erreicht das Projekt eine möglichst große Zahl von Nutzern
 
-* Talks auf Konferenzen, geplant: A-Tag'17, SHA, Subscribe, 34C3, Podcasting Meetups, Privacy Week,
-  Meetup-Szene, Project Night, Webclerks, Android Heads Meetup Vienna, ...
+* Talks auf Konferenzen, geplant: A-Tag'17, SHA, Subscribe, 34C3, Re:Publica, Podcasting Meetups,
+  Privacy Week, Meetup-Szene, Project Night, Webclerks, Android Heads Meetup Vienna, ...
 * Verbreitung über die Podcasting Community, d.h. die Podcaster:innen, deren Podcasts in der
   Datenbank gelistet sind
 * Verwenden der existierenden Plattform und Community von Panoptikum
@@ -78,8 +78,8 @@ permalink: plan_de/
 
 ### 2.5 Grober Zeitplan
 
-* 2 Monate: Pre-Project Marketing: SHA, 34C3, Subscribe
-* 1 Monat: Setup Team und Entwicklung
+* 2 Monate: Pre-Project Marketing: Re:Publica, Meetups, Subscribe
+* 1 Monat: Setup Team und Entwicklung (Stack)
 * 1 Monat: Test und Selektion der verwendeten Komponenten
 * 3 Monate: minimale Applikation
 * 2 Monate: Tests
