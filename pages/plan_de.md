@@ -193,12 +193,12 @@ sprechenden, hörenden Menschen verwendbar:
 ### 3.5 Nachhaltige Nutzung
 
 * Software wird AGPL 3 lizensiert, ist daher weiter frei aktualisier- und erweiterbar
-* AGPL garantier, dass es zukünftig keine Einschränkungen der Lizenzbedingungen gibt
-* keine Einschränkungen durch Patente Finanzierung des Betriebs der Plattform und Aktualisierung
-  der Software:
-* Spenden
-* Pro-Accounts der Podcaster:innen der Backend-Plattform Panoptikum
-* Kooperationen mit Inhaltsanbieter:innen / Rundfunkanstalten
+* AGPL garantiert, dass es zukünftig keine Einschränkungen der Lizenzbedingungen gibt
+* keine Einschränkungen durch Patente
+* Finanzierung des Betriebs der Plattform und Aktualisierung der Software:
+  * Spenden
+  * Pro-Accounts der Podcaster:innen der Backend-Plattform Panoptikum
+  * Kooperationen mit Inhaltsanbieter:innen / Rundfunkanstalten
 
 Erweiterung zusätzlich zu Podcasts nach 2018:
 
@@ -207,18 +207,22 @@ Erweiterung zusätzlich zu Podcasts nach 2018:
 * Inhalte aus Mediatheken, etwa von Rundfunkanstalten
 * Inhalte von Webseiten, die bereits Vorleseservices anbieten, die aber nur per Browser erreicht werden
 * Integration von Content, der durch Blindenhörbüchereien derzeit per Daisy(\~MP3)-CDs verteilt wird
-* Audiokommunikation zwischen Nutzern (Voice Chat) insgesamt: Zugang zum gesamten Acoustic Web.
+* Audiokommunikation zwischen Nutzern (Voice Chat)
+
+insgesamt: Zugang zum gesamten Acoustic Web.
 
 ### 3.6 Geistiges Eigentum
 
 Sämtliche Artefakte werden unter der AGPL3 publiziert:
 
 * Applikation im Quellcode auf Github: https://github.com/PanoptikumIO/panodio: AGPL3
-* Applikation kompiliert auf der Webseite und in div. App-Stores zum Download: AGPL3 zusätzlich als
-  GPL FDL & CC4.0:
+* Applikation kompiliert auf der Webseite und in div. App-Stores zum Download: AGPL3
+
+zusätzlich als GPL FDL & CC4.0:
+
 * Doku für Entwickler:innen im Github Wiki: https://github.com/PanoptikumIO/panodio/wiki:
-* Doku für Anwender:innen auf der Webseite (https://panod.io) * Infomaterialien für
-  Kooperationspartner auf der Webseite des Projektes
+* Doku für Anwender:innen auf der Webseite (https://panod.io)
+* Infomaterialien für Kooperationspartner auf der Webseite des Projektes
 
 ### 3.7 Ergeben sich wirtschaftlich oder wissenschaftlich interessante Kooperationen?
 

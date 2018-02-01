@@ -143,19 +143,13 @@ in the order of joining the project:
 * Indigo / consulting
   * University degree in computer science, specialized in artificial intelligence
 
----
-to be translated from here on ...
+### 2.9 Relevant Literature
 
----
-
-
-### 2.9 Wesentliche Literatur
-
-* Android Speech-to-Text API (Recognizer Intent)
+* Android speech to text API (Recognizer Intent)
 * CMUSphinx Tutorial: https://cmusphinx.github.io/wiki/tutorial/
 * WIT.ai API
 * Java Android API
-* Bücher:
+* Books:
   * Android Programming: The Big Nerd Ranch Guide
   * Android 7
   * Programming Phoenix
@@ -163,80 +157,94 @@ to be translated from here on ...
 
 <hr/>
 
-## 3 Umfeldanalyse und Verwertungsmöglichkeiten
+## 3 Pestel Analysis and Applications
 
-### 3.1 Derzeitige Aktivitäten im Projektbereich
+### 3.1 Current Activities in the Project Area
 
-Entwicklung und Betrieb von Panoptikum.io:
+Development and operations of  Panoptikum.io:
 
-* Podcast-Verzeichnis, Suchmaschine und Social Network: https://panoptikum.io/
-* Metainformationen auf: https://blog.panoptikum.io/
-* Beleg für kontinuierliche Entwicklung im wöchentlichen Blog: https://blog.panoptikum.io/blog/
+* Podcast directory, search engine and social network: https://panoptikum.io/
+* Meta informationen about the project: https://blog.panoptikum.io/
+* Proof for continous development with more than 50 blog posts accompaning development: https://blog.panoptikum.io/blog/
 
-### 3.2 Unser USP im Vergleich zu bereits vorhandenen Lösungen anderer Anbieter
+### 3.2 Unique Selling Proposition in Comparison with Existing Solutions of Other Vendors
 
-* Einfaches Berühren der Bildschirmfläche startet Sprachinterface
-* Keinerlei Visus (Fähigkeit zu sehen) nötig
-* Keine spezielle Hardware nötig, Kompatibilität zu unzähligen Android Smartphones und Tablets
-* sämtliche Software (auch die des Panoptikum Verzeichnisses) ist Open Source
+* Initial touch anywhere on the screen starts speech interface (privacy concerns against continous
+  monitoring)
+* No visus (ability to see) necessary
+* No proprietary hardware necessary, compatibility to a huge amount of Android driven smart phones
+  and tablets
+* all software written (including the Panoptikum directory) is open source and free software
 
-### 3.3 Gesamtzielgruppe
+### 3.3 Target groups
 
-Wir greifen hier nur die größte Gruppe der Sehbehinderten heraus, die Anwendung ist aber für alle
-sprechenden, hörenden Menschen verwendbar:
+We pick here only the biggest group of visually impaired, the application is usable for all people
+that are able to hear and speak:
 
-* Sehbehinderte Österreich \~ 318.000
-* Sehbehinderte Deutschland \~ 1.800.000
-* Sehbehinderte weltweit \~ 285.000.000
+* visually impaired in Austria \~ 318.000
+* visually impaired in Germany \~ 1.800.000
+* visually impaired world wide \~ 285.000.000
 
-### 3.4 Vorteile für die Benutzer
+### 3.4 Advantages for Users
 
-* Nach der Installation müssen keine visuellen Interfaces mehr bedient werden können, es reicht
-  Sprache
-* Kein Erlernen einer neuen Kulturtechnik für nicht technik-affine Menschen nötig, Sprache ist
-  bekanntes Medium
-* keine proprietäre Hardware nötig (wie bei einem Amazon Alexa Skill nötig wäre)
-* keine Accounts bei großen Plattformen, die Daten kommerziell verwerten, nötig (Facebook, Google,
-  Amazon)
+* After the initial installation, no visual user interfaces have to be used, speech input suffices
+* There is no need to learn a new skill for non technical people. Speech is a well known medium.
+* No propriatary hardware is necessary (as it would be in contrast e.g. for an Amazon Alexa Skill)
+* No accounts at the major platforms, that resell or reuse data commercially, are necessary
+  (Facebook, Google, Amazon)
 
-### 3.5 Nachhaltige Nutzung
+### 3.5 Sustainability
 
-* Software wird AGPL 3 lizensiert, ist daher weiter frei aktualisier- und erweiterbar
-* AGPL garantier, dass es zukünftig keine Einschränkungen der Lizenzbedingungen gibt
-* keine Einschränkungen durch Patente Finanzierung des Betriebs der Plattform und Aktualisierung
-  der Software:
-* Spenden
-* Pro-Accounts der Podcaster:innen der Backend-Plattform Panoptikum
-* Kooperationen mit Inhaltsanbieter:innen / Rundfunkanstalten
+* Software will be AGPL 3 licensed, i.e. freely extendable, adaptable and updateable
+* AGPL garantees, that there will be no restrictions on later licensing conditions or prerequisits.
+* no restrictions by patents,
+* Finanzing of platform operations and updates via
+  * donations
+  * pro accounts for podcasters using the Panoptikum backend
+* Cooperations with content distributors and broadcasting corporations.
 
-Erweiterung zusätzlich zu Podcasts nach 2018:
+Extensions after 2018 extending the area of podcasts:
 
-* Internet-Radiostreams (Echtzeitinformationen, es gibt mehrere tausend Streams)
-* Nicht-feed publizierte Audioinhalte, z.B. Spoken Wikipedia
-* Inhalte aus Mediatheken, etwa von Rundfunkanstalten
-* Inhalte von Webseiten, die bereits Vorleseservices anbieten, die aber nur per Browser erreicht werden
-* Integration von Content, der durch Blindenhörbüchereien derzeit per Daisy(\~MP3)-CDs verteilt wird
-* Audiokommunikation zwischen Nutzern (Voice Chat) insgesamt: Zugang zum gesamten Acoustic Web.
+* Internet radio streams (real time information, there are several thousand streams available)
+* Audio content, that is not distributed via feeds, such as spoken Wikipedia
+* Content from media centers, e.g. provided for the public by public broadcasting corporations
+* Content from web pages, that already offer reading aloud services, that are only accessible
+  via web browsers up to now.
+* Integration of content, that is currently distributed via Daisy(\~MP3)-CDs by libraries for
+  visually impaired
+* Audio communication between users (voice chat)
 
-### 3.6 Geistiges Eigentum
+combined: Access to all parts of the acoustic web
 
-Sämtliche Artefakte werden unter der AGPL3 publiziert:
+### 3.6 Intellectual Property
 
-* Applikation im Quellcode auf Github: https://github.com/PanoptikumIO/panodio: AGPL3
-* Applikation kompiliert auf der Webseite und in div. App-Stores zum Download: AGPL3 zusätzlich als
-  GPL FDL & CC4.0:
-* Doku für Entwickler:innen im Github Wiki: https://github.com/PanoptikumIO/panodio/wiki:
-* Doku für Anwender:innen auf der Webseite (https://panod.io) * Infomaterialien für
-  Kooperationspartner auf der Webseite des Projektes
+All artifacts will be licensed under the AGPL3 license:
 
-### 3.7 Ergeben sich wirtschaftlich oder wissenschaftlich interessante Kooperationen?
+* Application source code on Github:https://github.com/PanoptikumIO/panodio: AGPL3
+* Application compiled via the web site and in several app stores for download: AGPL3
 
-* (Blinden-)Hörbüchereien
-* Rundfunkanstalten
-* Universitäten und Fachhochschulen (Spracherkennung, UX-Design)
-* Gemeinden mit Vorleseservices, z.B. Wien
-* Hersteller von Blindenhilfsmitteln (in Ö: Baum Retec GmbH)
-* Podcastplattformen: Google (Podcast Store, derzeit nur in US), Apple, Amazon, ...
+* Applikation im Quellcode auf Github:
+* Applikation kompiliert auf der Webseite und in div. App-Stores zum Download: AGPL3
+
+dual licensed also via  GPL FDL & CC4.0:
+
+* Documentation for developers in the Github wiki: https://github.com/PanoptikumIO/panodio/wiki:
+* Documentation for users on the web site (https://panod.io)
+* Infomation for cooperating partners on the project web site
+
+### 3.7 Opportunites for Cooperations with Interesting Scientific or Economic Aspects?
+
+* Libraries (for visually impaired)
+* Broadcasting corporations
+* Universities and universities of applied sciences (speech recognition, ux design)
+* Municipalities that provide acoustic services already, e.g. City of Vienna
+* Producers of aids to the blind (e.g. in Austria: Baum Retec GmbH)
+* Podcast platforms: Google (Podcast Store, currently only in the US), Apple, Amazon, ...
+
+---
+to be translated from here on ...
+
+---
 
 ### 3.8 Gibt es positive regionalpolitische Aspekte?
 
