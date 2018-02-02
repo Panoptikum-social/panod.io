@@ -40,13 +40,13 @@ We had started with an elaborate project plan - originally designed for an appli
 
 If you prefer, instead of reading a long text, to watch a short movie, how we present Panod.io playfully, klick on the video:
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc"></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=en&cc_load_policy=1&hl=en"></iframe>
 
 ## Our vision
 
 *Either we as a society take controll of education, or trends, fake news and shit storms on Facebook, Instagram and Whatsapp or their successors will become the main influencers. We can change that.*
 
-In current educationsal settings one teachers has to take care for 15 pupils at least, often for more 
+In current educationsal settings one teachers has to take care for 15 pupils at least, often for more
 than 30. So lots of questions stay unanswered, social media take over more and more roles in training and
 education.
 
@@ -72,6 +72,6 @@ Indigo will be created as a collaborative work of many people, their algorithms 
  * training and education
 
  Aim of laying out this vision is to encourage thinking about the future of education and finding people
- and organisations, who are interested in and want to collaborate on the creation of Indigo. 
+ and organisations, who are interested in and want to collaborate on the creation of Indigo.
 
  Panod.io will become Indigo, eventually.

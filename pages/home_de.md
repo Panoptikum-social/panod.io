@@ -57,7 +57,7 @@ gemacht. Diesen Plan finden Sie aktualisiert unter [Plan/DE](/plan_de).
 Falls Sie lieber, statt lange zu lesen, kurz sehen und hören möchten, wie wir spielerisch Panod.io
 erklären, klicken Sie auf das Video:
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc"></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=de&cc_load_policy=1&hl=de"></iframe>
 
 
 ## Unsere Vision
