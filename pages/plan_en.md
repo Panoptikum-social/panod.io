@@ -194,39 +194,39 @@ that are able to hear and speak to use:
 
 ### 3.5 Sustainability
 
-* software will be AGPL 3 licensed, i.e. freely extendable, adaptable and updateable
+* Uoftware will be AGPL 3 licensed, i.e. freely extendable, adaptable and updateable.
 * AGPL garantees, that there will be no restrictions on later licensing conditions or prerequisits.
-* no restrictions by patents,
-* financing of platform operations and updates via
-  * donations
-  * pro accounts for podcasters using the Panoptikum backend
-* cooperations with content distributors and broadcasting corporations.
+* No restrictions by patents.
+* Financing of platform operations and updates via
+  * Donations
+  * Pro accounts for podcasters using the Panoptikum backend
+* Cooperation with content distributors and broadcasting corporations.
 
 Extensions after 2018 extending the area of podcasts:
 
-* internet radio streams (real time information, there are several thousand streams available)
-* audio content, that is not distributed via feeds, such as spoken Wikipedia
-* content from media centers, e.g. provided for the public by public broadcasting corporations
-* content from web pages, that already offer reading aloud services, that are only accessible
-  via web browsers up to now.
-* integration of content, that is currently distributed via Daisy(\~MP3)-CDs by libraries for
-  visually impaired
-* audio communication between users (voice chat)
+* Internet radio streams (real time information, there are several thousand streams available)
+* Audio content, that is not distributed via feeds, such as spoken Wikipedia
+* Content from media centers, e.g. provided for the public by public broadcasting corporations
+* Content from web pages, that already offer reading aloud services, that are only accessible
+  Via web browsers up to now.
+* Integration of content, that is currently distributed via Daisy(\~MP3)-CDs by libraries for
+  Visually impaired.
+* Audio communication between users (voice chat).
 
-combined: Access to all parts of the acoustic web
+Combined: Access to all parts of the acoustic web.
 
 ### 3.6 Intellectual Property
 
 All artifacts will be licensed under the AGPL3 license:
 
-* application source code on Github:https://github.com/PanoptikumIO/panodio: AGPL3
-* application compiled via the web site and in several app stores for download: AGPL3
+* Application source code on Github:https://github.com/PanoptikumIO/panodio: AGPL3
+* Application compiled via the web site and in several app stores for download: AGPL3
 
-dual licensed also via GPL FDL & CC4.0:
+Dual licensed also via GPL FDL & CC4.0:
 
 * Documentation for developers in the Github wiki: https://github.com/PanoptikumIO/panodio/wiki:
 * Documentation for users on the web site (https://panod.io)
-* Infomation for cooperating partners on the project web site
+* Information for cooperating partners on the project web site
 
 ### 3.7 Opportunites for Cooperations with Interesting Scientific or Economic Aspects?
 
