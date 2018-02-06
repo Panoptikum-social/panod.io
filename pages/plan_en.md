@@ -19,13 +19,13 @@ permalink: plan_en/
 
 ### 1.2 How is the Product Made Available to the Public?
 
-* download an Android application with audio interface for tabletts and smartphones from the website
-  of the project as well as free app stores like F-Droid and from the Google App Store
-* audio interface removes barriers for physically challenged and visually impaired internet users.
-* stores a minimal amount of data to provide access
-* pseudonymity (User are encouraged to make wrong statements on their names, or create several accounts
-  to preserve their anonymity)
-* no connection or correlation to accounts on the major commercial platforms.
+* Download an Android application with an voice interface for tablets and smartphones from the website
+  of the project as well as free app stores like F-Droid and the Google App (Play?) Store.
+* Audio interface removes barriers for physically challenged and visually impaired internet users.
+* Stores a minimal amount of data to provide access.
+* Pseudonymity — users are encouraged to make wrong statements on their names, or create several accounts
+  to preserve their anonymity.
+* No connection or correlation to accounts on the major commercial platforms.
 
 
 ### 1.3 This is how the Project Reaches as many Users as Possible
