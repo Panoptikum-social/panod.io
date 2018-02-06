@@ -268,7 +268,7 @@ via speech navigation with Panod.io
 
 <hr/>
 
-## 4 Projekt Costs
+## 4 Project Costs
 
 ### 4.1 Labor Costs in Hours
 
