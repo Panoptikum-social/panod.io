@@ -177,12 +177,12 @@ Development and operations of  Panoptikum.io:
 
 ### 3.3 Target groups
 
-We pick here only the biggest group of visually impaired, the application is usable for all people
-that are able to hear and speak:
+We pick here only the biggest group of visually impaired, however the application is open for all people
+that are able to hear and speak to use:
 
-* visually impaired in Austria \~ 318.000
-* visually impaired in Germany \~ 1.800.000
-* visually impaired world wide \~ 285.000.000
+* Visually impaired in Austria \~ 318.000
+* Visually impaired in Germany \~ 1.800.000
+* Visually impaired world wide \~ 285.000.000
 
 ### 3.4 Advantages for Users
 
