@@ -71,11 +71,11 @@ permalink: plan_en/
 
 ### 2.4 Risks
 
-* quality of speech to text recognition in German
-* quality of the data model
-* user interface needs to be intuitive
-* availability of users with diverse demands for acceptance testing
-* support of older Android phones, to be able to use as many smart phones as possible at hand
+* Quality of speech to text recognition in German.
+* Quality of the data model.
+* User (voice) interface needs to be intuitive.
+* Availability of users with diverse demands for acceptance testing.
+* Support of older Android phones, to be able to use as many smartphones as possible at hand.
 
 ### 2.5 Rough Time Estimates
 
