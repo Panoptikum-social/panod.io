@@ -166,14 +166,14 @@ Development and operations of  Panoptikum.io:
 * meta informationen about the project: https://blog.panoptikum.io/
 * proof for continous development with more than 50 blog posts accompaning development: https://blog.panoptikum.io/blog/
 
-### 3.2 Unique Selling Proposition in Comparison with Existing Solutions of Other Vendors
+### 3.2 Unique Selling Point (USP) Compared with Existing Solutions from Other Vendors
 
-* initial touch anywhere on the screen starts speech interface (privacy concerns against continous
+* Initial touch anywhere on the screen starts voice interface (privacy concerns against continous
   monitoring)
-* no visus (ability to see) necessary
-* no proprietary hardware necessary, compatibility to a huge amount of Android driven smart phones
+* No vision necessary
+* No proprietary hardware necessary, compatibility with a huge amount of Android driven smart phones
   and tablets
-* all software written (including the Panoptikum directory) is open source and free software
+* All software written (including the Panoptikum.io directory) is open source and free software
 
 ### 3.3 Target groups
 
