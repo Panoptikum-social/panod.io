@@ -115,30 +115,30 @@ permalink: plan_en/
 
 ### 2.8 Statement of Qualification of Project Contributors
 
-in the order of joining the project:
+In the order of joining the project:
 
 * Stefan / projekt lead und development: https://stefan-haslinger.at/cv
-  * Java development starting 1997 at UT Vienna as scientific collaborator
+  * Java development since 1997 at UT Vienna as scientific collaborator
   * Developer Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
-  * 7 Jahre web application development: https://github.com/haslinger
-  * 7 Jahre SAP-development
+  * 7 years web application development: https://github.com/haslinger
+  * 7 years SAP-development
   * University degree in physics, mathematics and computer science education
 * Sonja / marketing & community: https://www.waldgruber.at
-  * produkt management at Austria's largest ISPs (EuNet, A1)
-  * UX testing internship for university degree in psychology (cognition psychologie) und as a
+  * Product management at Austria's largest ISPs (EuNet, A1)
+  * UX testing internship for university degree in psychology (cognition psychology) as well as a
     consultant in the insurance business
-  * organisator _Chaos macht Schule_ Austria
-  * lector Privacy Week Austria, _Internet für alle_
+  * Organiser _Chaos macht Schule_ Austria
+  * lector (editor?) Privacy Week Austria, _Internet für alle_
   * University degrees in business and technology as well as psychology
 * Ramon / developer: http://ramonhuidobro.com/
-  * University education computer science
+  * University education: software engineering
   * Bachelor theses didactics of computer science
-  * organizer in the Viennese meetup scene for several years
-  * five years of Android- and web develoment
+  * Organiser in the Viennese meetup scene for several years
+  * Five years of Android- and web develoment
 * Heinz / Acceptance tests
-  * blind
-  * former head of the Austrian acoustic library for the war blind
-  * Doctor of law
+  * Blind
+  * Former head of the Austrian acoustic library for the war-blind
+  * Law Doctorate
 * Indigo / consulting
   * University degree in computer science, specialized in artificial intelligence
 
