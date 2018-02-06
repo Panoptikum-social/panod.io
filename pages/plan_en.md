@@ -52,13 +52,13 @@ permalink: plan_en/
 * Availability in at least three app stores.
 * Project documentation in German and English.
 
-### 2.2 State of the Art Technology & Methond
+### 2.2 State of the Art Technology & Method
 
 
-* speech to Text (User has to be able to speak and talk as the only prerequisites)
-* natural Language Processing to recognize the intent
-* search for desired content within Panoptikum and verbal presentation of the search results
-* playback or appending to play list
+* Speech-to-text — users have to be able to speak and talk are the only prerequisites.
+* Natural Language Processing (NLP) used to recognize the intent.
+* Search for desired content within Panoptikum.io and verbal presentation of the search results.
+* Playback or appending to a playlist.
 
 ### 2.3 Solutions and Suggestions
 
