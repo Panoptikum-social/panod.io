@@ -239,17 +239,17 @@ Dual licensed also via GPL FDL & CC4.0:
 
 ### 3.8 Positive Aspects for Regional Policy
 
-Municipalities and other Institutions with reading services (e.g. City of Vienna) publish their
+Municipalities and other institutions with reading services (City of Vienna, for example) publish their
 audio content typically only in web pages browseable by web browsers. This content can be available
 via speech navigation with Panod.io
 
 ### 3.9 Are there any Noteworthy Social, Environmental or Public Spirited Aspects?
 
-* higher education (1000+ scientific podcasts) leads to better employability
-* a larger focus is set on the acoustic web, that is currently largely neglected (hardly anybody
-  knows about the spoken Wikipedia)
-* lots of persons, currently not being able to participate actively in the world wide web are no
-  longer excluded
+* Higher education (1000+ scientific podcasts) leads to better employability
+* A larger focus is set on the acoustic web, which is currently largely neglected (hardly anybody
+  knows about spoken Wikipedia)
+* Lots of persons currently not being able to participate actively in the world wide web would no
+  longer be excluded.
 
 ### 3.10 Which Particular Role Can this Project Take for "Closing the gender gap"?
 
