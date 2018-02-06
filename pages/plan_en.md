@@ -79,15 +79,15 @@ permalink: plan_en/
 
 ### 2.5 Rough Time Estimates
 
-* 2 months: pre project marketing: Subscribe, Meetups, Re:Publica
-* 1 month: setup of team und and development stack
-* 1 month: test and selection of components used
-* 3 months: development of minimal application
-* 2 months: tests
-* 2 months: further development of application
-* 2 months: Deployment
-* 2 months: Marketing and launch
-* in parallel 12 Monate: congresses and meetups
+* 2 months: Pre-project marketing: Subscribe, Meetups, Re:Publica.
+* 1 month: Setup of team und and development stack.
+* 1 month: Test and selection of components used.
+* 3 months: Development of minimal application.
+* 2 months: Tests.
+* 2 months: Further development of application.
+* 2 months: Deployment.
+* 2 months: Marketing and launch.
+* 12 months (in parallel): congresses and meetups.
 
 ### 2.6 Time Estimates in More Detail
 
