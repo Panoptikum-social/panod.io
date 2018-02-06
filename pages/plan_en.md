@@ -262,9 +262,9 @@ via speech navigation with Panod.io
 
 ### 3.11 Which Particular Relevance has "Privacy by Design"?
 
-* development guided by the principle of data sparsity
-* user data are only stored, if necessary, only on the device itself, and not in the web backend
-* there is no enforcement of real names in the backend
+* Development guided by the principle of data sparsity.
+* User data are only stored, if necessary, only on the device itself, and not in the web backend.
+* There is no enforcement of real names in the backend.
 
 <hr/>
 
@@ -272,21 +272,21 @@ via speech navigation with Panod.io
 
 ### 4.1 Labor Costs in Hours
 
-| description | amount (hours) |
-| documentation - Stefan, Ramon and Sonja | 100|
-| tests - Heinz, Stefan and Ramon | 40|
-| marketing and community - Sonja | 200|
-| development - Stefan und Ramon | 950|
-| projekt lead - Stefan | 100|
-| sum | 1390|
+| Description | Amount (hours) |
+| Documentation - Stefan, Ramon and Sonja | 100|
+| Tests - Heinz, Stefan and Ramon | 40|
+| Marketing and community - Sonja | 200|
+| Development - Stefan und Ramon | 950|
+| Project lead - Stefan | 100|
+| Sum | 1390|
 {: .table .table-bordered}
 
 ### 4.2 Other Costs in EUR
 
-| description | amount (EUR) |
-| hosting, domain, mail service | 500|
-| print and production of marketing material (sticker, folder, shirts) | 1000|
-| travel expenses + congress tickets | 3000|
-| literature | 300|
-| sum | 4800|
+| Description | Amount (EUR) |
+| Hosting, domain, mail service | 500|
+| Print and production of marketing material (sticker, folder, shirts) | 1000|
+| Travel expenses + congress tickets | 3000|
+| Literature | 300|
+| Sum | 4800|
 {: .table .table-bordered}
