@@ -11,10 +11,10 @@ permalink: plan_en/
 
 ### 1.1 Relevance for the Internet
 
-* Providing better access to user groups who have not had barrier-free access to the WWW and the acoustic web, A.K.A. podcasts
+* Providing better access to user groups who have not had barrier-free access to the WWW and the acoustic web, A.K.A. podcasts.
 * Panod.io uses data of the currently existing platform Panoptikum https://panoptikum.io, which is
   developed, maintained and hosted in Austria by the project team.
-* Further exposure of local active podcasters to international audiences
+* Further exposure of local active podcasters to international audiences.
 
 
 ### 1.2 How is the Product Made Available to the Public?
