@@ -105,12 +105,12 @@ permalink: plan_en/
 
 ### 2.7 Key Performance Indicatiors
 
-|description |minimal success |excellent success |
-|languages available |1 |3 |
-|talks given at conferences and meetups |5 |10 |
-|podcast episodes available |1 800 000 |2 500 000 |
-|downloads (and installs) in 2018 |100 |1000 |
-|availability in app stores |3 |5 |
+|Description |Minimal success |Tremendous success |
+|Languages available |1 |3 |
+|Talks given at conferences and meetups |5 |10 |
+|Podcast episodes available |1 800 000 |2 500 000 |
+|Downloads (and installs) in 2018 |100 |1000 |
+|Availability in app stores |3 |5 |
 {: .table .table-bordered}
 
 ### 2.8 Statement of Qualification of Project Contributors
