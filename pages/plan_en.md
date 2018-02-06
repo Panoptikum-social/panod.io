@@ -62,12 +62,12 @@ permalink: plan_en/
 
 ### 2.3 Solutions and Suggestions
 
-* android Speech-to-Text API
-* speech recognition - Natural Language Processing
-* Android application (wide adoption of devices, high availability for reasonably priced devices)
-* requests to the data base of Panoptikum via web requests (API)
-* smartphones (small, head phone usage, small loud speakers, usage off the power grid)
-* tabletts (bigger, better sounding load speakers, usage off the power grid)
+* Android speech-to-text API.
+* Speech recognition — Natural Language Processing (NLP).
+* Android application (wide adoption of devices, high availability for reasonably priced devices).
+* Requests to the Panoptikum.io's database via web requests (API).
+* Smartphones (small, headphone usage, small/loud speakers, usage off the power grid).
+* Tablets (bigger, better sounding load speakers, usage off the power grid)
 
 ### 2.4 Risks
 
