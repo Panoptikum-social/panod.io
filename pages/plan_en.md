@@ -28,16 +28,16 @@ permalink: plan_en/
 * No connection or correlation to accounts on the major commercial platforms.
 
 
-### 1.3 This is how the Project Reaches as many Users as Possible
+### 1.3 Outreach
 
-* ralks at conferences, planned: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
-  Privacy Week, other meetups in the meetup scene Vienna: Project Night, Webclerks, Android Heads
-  Meetup Vienna, ...
-* tistribution via the podcasting community, that is the podcasters who are panoptikum users
-* Making use of the existing platform and community of Panoptikum.io
-* project home page
+* Planned talks at conferences: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
+  Privacy Week, other meetups in the meetup scene in Vienna: Project Night, Webclerks, Android Heads
+  Meetup Vienna, etc.
+* Distribution via the podcasting community, that is, the podcasters who are Panoptikum.io users
+* Making use of the existing platform and community of Panoptikum.io.
+* Project homepage.
 * Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s, libraries for the
-  blind in Austria and Germany
+  blind in Austria and Germany.
 
 <hr/>
 
