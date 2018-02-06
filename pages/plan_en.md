@@ -89,19 +89,19 @@ permalink: plan_en/
 * 2 months: Marketing and launch.
 * 12 months (in parallel): congresses and meetups.
 
-### 2.6 Time Estimates in More Detail
+### 2.6 Time Estimates in Further Detail
 
-* pre project marketing 60 hours
-* setup: 100 hours
-* test and selection of components: 120 hours
-* development of minimal application: 300 hours
-* tests with users with diverse demands und definiton of deviant requirements: 120 hours
-* expansion of application and further development: 300 hours
-* deployment and rollout tests: 150 hours
-* marketing and launch: 200 hours
-* congresses and meetups, marketing & media coverage: 120 hours
-* documentation: 100 hours
-* project lead: 100 hours
+* Pre-project marketing: 60 hours
+* Setup: 100 hours
+* Testing and selection of components: 120 hours
+* Development of minimal application (MVP): 300 hours
+* Tests with users with diverse demands as well as definiton of differing requirements: 120 hours
+* Expansion of application and further development: 300 hours
+* Deployment and rollout tests: 150 hours
+* Marketing and launch: 200 hours
+* Congresses and meetups, marketing & media coverage: 120 hours
+* Documentation: 100 hours
+* Project lead: 100 hours
 
 ### 2.7 Key Performance Indicatiors
 
