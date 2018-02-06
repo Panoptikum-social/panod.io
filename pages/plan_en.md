@@ -186,11 +186,11 @@ that are able to hear and speak to use:
 
 ### 3.4 Advantages for Users
 
-* after the initial installation, no visual user interfaces have to be used, speech input suffices
-* there is no need to learn a new skill for non technical people. Speech is a well known medium.
-* no propriatary hardware is necessary (as it would be in contrast e.g. for an Amazon Alexa Skill)
-* no accounts at the major platforms, that resell or reuse data commercially, are necessary
-  (Facebook, Google, Amazon)
+* After the initial installation, no visual user interface has to be used, voice input suffices
+* There is no need to learn a new skill for non-technical people. Speech is a well-known medium.
+* No propriatary hardware is necessary (in contrast to, for example, for an Amazon Alexa Skill)
+* No accounts at the major platforms that resell or reuse data commercially are necessary
+  (Facebook, Google, Amazon, etc.)
 
 ### 3.5 Sustainability
 
