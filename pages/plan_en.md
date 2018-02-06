@@ -228,14 +228,14 @@ Dual licensed also via GPL FDL & CC4.0:
 * Documentation for users on the web site (https://panod.io)
 * Information for cooperating partners on the project web site
 
-### 3.7 Opportunites for Cooperations with Interesting Scientific or Economic Aspects?
+### 3.7 Opportunites for Cooperation with Interesting Scientific or Economic Aspects?
 
-* libraries (for visually impaired)
-* broadcasting corporations
-* universities and universities of applied sciences (speech recognition, ux design)
-* municipalities that provide acoustic services already, e.g. City of Vienna
-* producers of aids to the blind (e.g. in Austria: Baum Retec GmbH)
-* podcast platforms: Google (Podcast Store, currently only in the US), Apple, Amazon, ...
+* Libraries (for visually impaired).
+* Broadcasting corporations.
+* Universities and universities of applied sciences (speech recognition, UX design).
+* Municipalities that already provide acoustic services, e.g. City of Vienna.
+* Producers of aids to the blind (for example, in Austria: Baum Retec GmbH).
+* Podcast platforms: Google (Podcast Store, currently only in the US), Apple, Amazon, etc.
 
 ### 3.8 Positive Aspects for Regional Policy
 
