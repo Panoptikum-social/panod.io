@@ -45,12 +45,12 @@ permalink: plan_en/
 
 ### 2.1 Project Goals
 
-* Android application with audio only interface
-* access to more than 1.800.000 podcast episodes from the database via the Panoptikum API
-* no manual action for using the application necessary
-* barrier free project web site to download the application, Descriptions in text and audio format
-* availability in three app stores at least
-* project documentation in German and English
+* Android application with voice interface only.
+* Access to more than 1.800.000 podcast episodes from the database via the Panoptikum API.
+* No UI interaction aside from voice for using the application is necessary.
+* Accessibility-friendly project website to download the application, including descriptions in text and audio format.
+* Availability in at least three app stores.
+* Project documentation in German and English.
 
 ### 2.2 State of the Art Technology & Methond
 
