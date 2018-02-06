@@ -253,11 +253,11 @@ via speech navigation with Panod.io
 
 ### 3.10 Which Particular Role Can this Project Take for "Closing the gender gap"?
 
-* speech interface leads to a low entrance barrier
-* better accessibility for elder, visually impaired people, or those not participating in the
-  internet yet
-* easy entrance to the world of podcasts with any previous technical knowledge
-* no training necessary, the device introduces itself and it's usage to the users
+* Voice interface leads to a low entrance barrier.
+* Better accessibility for elderly, visually impaired people, or those not yet participating in the
+  internet.
+* Easy entrance to the world of podcasts requiring little to no previous technical knowledge.
+* No training necessary, the device introduces itself and its usage to the users
 
 
 ### 3.11 Which Particular Relevance has "Privacy by Design"?
