@@ -11,34 +11,33 @@ permalink: plan_en/
 
 ### 1.1 Relevance for the Internet
 
-* potential user groups, who have been denied from the WWW up to now, get barrier free access to the
-  acountstic web, a.k.a. podcasts
-* Panod.io uses data of the already existing platform Panoptikum https://panoptikum.io, that is
+* Providing better access to user groups who have not had barrier-free access to the WWW and the acoustic web, A.K.A. podcasts.
+* Panod.io uses data of the currently existing platform Panoptikum https://panoptikum.io, which is
   developed, maintained and hosted in Austria by the project team.
-* further linking of local acting podcasters to international audiences
+* Further exposure of local active podcasters to international audiences.
 
 
 ### 1.2 How is the Product Made Available to the Public?
 
-* download an Android application with audio interface for tabletts and smartphones from the website
-  of the project as well as free app stores like F-Droid and from the Google App Store
-* audio interface removes barriers for physically challenged and visually impaired internet users.
-* stores a minimal amount of data to provide access
-* pseudonymity (User are encouraged to make wrong statements on their names, or create several accounts
-  to preserve their anonymity)
-* no connection or correlation to accounts on the major commercial platforms.
+* Download an Android application with an voice interface for tablets and smartphones from the website
+  of the project as well as free app stores like F-Droid and the Google App (Play?) Store.
+* Audio interface removes barriers for physically challenged and visually impaired internet users.
+* Stores a minimal amount of data to provide access.
+* Pseudonymity — users are encouraged to make wrong statements on their names, or create several accounts
+  to preserve their anonymity.
+* No connection or correlation to accounts on the major commercial platforms.
 
 
-### 1.3 This is how the Project Reaches as many Users as Possible
+### 1.3 Outreach
 
-* ralks at conferences, planned: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
-  Privacy Week, other meetups in the meetup scene Vienna: Project Night, Webclerks, Android Heads
-  Meetup Vienna, ...
-* tistribution via the podcasting community, that is the podcasters who are panoptikum users
-* Making use of the existing platform and community of Panoptikum.io
-* project home page
+* Planned talks at conferences: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
+  Privacy Week, other meetups in the meetup scene in Vienna: Project Night, Webclerks, Android Heads
+  Meetup Vienna, etc.
+* Distribution via the podcasting community, that is, the podcasters who are Panoptikum.io users
+* Making use of the existing platform and community of Panoptikum.io.
+* Project homepage.
 * Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s, libraries for the
-  blind in Austria and Germany
+  blind in Austria and Germany.
 
 <hr/>
 
@@ -46,100 +45,100 @@ permalink: plan_en/
 
 ### 2.1 Project Goals
 
-* Android application with audio only interface
-* access to more than 1.800.000 podcast episodes from the database via the Panoptikum API
-* no manual action for using the application necessary
-* barrier free project web site to download the application, Descriptions in text and audio format
-* availability in three app stores at least
-* project documentation in German and English
+* Android application with voice interface only.
+* Access to more than 1.800.000 podcast episodes from the database via the Panoptikum API.
+* No UI interaction aside from voice for using the application is necessary.
+* Accessibility-friendly project website to download the application, including descriptions in text and audio format.
+* Availability in at least three app stores.
+* Project documentation in German and English.
 
-### 2.2 State of the Art Technology & Methond
+### 2.2 State of the Art Technology & Method
 
 
-* speech to Text (User has to be able to speak and talk as the only prerequisites)
-* natural Language Processing to recognize the intent
-* search for desired content within Panoptikum and verbal presentation of the search results
-* playback or appending to play list
+* Speech-to-text — users have to be able to speak and talk are the only prerequisites.
+* Natural Language Processing (NLP) used to recognize the intent.
+* Search for desired content within Panoptikum.io and verbal presentation of the search results.
+* Playback or appending to a playlist.
 
 ### 2.3 Solutions and Suggestions
 
-* android Speech-to-Text API
-* speech recognition - Natural Language Processing
-* Android application (wide adoption of devices, high availability for reasonably priced devices)
-* requests to the data base of Panoptikum via web requests (API)
-* smartphones (small, head phone usage, small loud speakers, usage off the power grid)
-* tabletts (bigger, better sounding load speakers, usage off the power grid)
+* Android speech-to-text API.
+* Speech recognition — Natural Language Processing (NLP).
+* Android application (wide adoption of devices, high availability for reasonably priced devices).
+* Requests to the Panoptikum.io's database via web requests (API).
+* Smartphones (small, headphone usage, small/loud speakers, usage off the power grid).
+* Tablets (bigger, better sounding load speakers, usage off the power grid)
 
 ### 2.4 Risks
 
-* quality of speech to text recognition in German
-* quality of the data model
-* user interface needs to be intuitive
-* availability of users with diverse demands for acceptance testing
-* support of older Android phones, to be able to use as many smart phones as possible at hand
+* Quality of speech to text recognition in German.
+* Quality of the data model.
+* User (voice) interface needs to be intuitive.
+* Availability of users with diverse demands for acceptance testing.
+* Support of older Android phones, to be able to use as many smartphones as possible at hand.
 
 ### 2.5 Rough Time Estimates
 
-* 2 months: pre project marketing: Subscribe, Meetups, Re:Publica
-* 1 month: setup of team und and development stack
-* 1 month: test and selection of components used
-* 3 months: development of minimal application
-* 2 months: tests
-* 2 months: further development of application
-* 2 months: Deployment
-* 2 months: Marketing and launch
-* in parallel 12 Monate: congresses and meetups
+* 2 months: Pre-project marketing: Subscribe, Meetups, Re:Publica.
+* 1 month: Setup of team und and development stack.
+* 1 month: Test and selection of components used.
+* 3 months: Development of minimal application.
+* 2 months: Tests.
+* 2 months: Further development of application.
+* 2 months: Deployment.
+* 2 months: Marketing and launch.
+* 12 months (in parallel): congresses and meetups.
 
-### 2.6 Time Estimates in More Detail
+### 2.6 Time Estimates in Further Detail
 
-* pre project marketing 60 hours
-* setup: 100 hours
-* test and selection of components: 120 hours
-* development of minimal application: 300 hours
-* tests with users with diverse demands und definiton of deviant requirements: 120 hours
-* expansion of application and further development: 300 hours
-* deployment and rollout tests: 150 hours
-* marketing and launch: 200 hours
-* congresses and meetups, marketing & media coverage: 120 hours
-* documentation: 100 hours
-* project lead: 100 hours
+* Pre-project marketing: 60 hours
+* Setup: 100 hours
+* Testing and selection of components: 120 hours
+* Development of minimal application (MVP): 300 hours
+* Tests with users with diverse demands as well as definiton of differing requirements: 120 hours
+* Expansion of application and further development: 300 hours
+* Deployment and rollout tests: 150 hours
+* Marketing and launch: 200 hours
+* Congresses and meetups, marketing & media coverage: 120 hours
+* Documentation: 100 hours
+* Project lead: 100 hours
 
 ### 2.7 Key Performance Indicatiors
 
-|description |minimal success |excellent success |
-|languages available |1 |3 |
-|talks given at conferences and meetups |5 |10 |
-|podcast episodes available |1 800 000 |2 500 000 |
-|downloads (and installs) in 2018 |100 |1000 |
-|availability in app stores |3 |5 |
+|Description |Minimal success |Tremendous success |
+|Languages available |1 |3 |
+|Talks given at conferences and meetups |5 |10 |
+|Podcast episodes available |1 800 000 |2 500 000 |
+|Downloads (and installs) in 2018 |100 |1000 |
+|Availability in app stores |3 |5 |
 {: .table .table-bordered}
 
 ### 2.8 Statement of Qualification of Project Contributors
 
-in the order of joining the project:
+In the order of joining the project:
 
 * Stefan / projekt lead und development: https://stefan-haslinger.at/cv
-  * Java development starting 1997 at UT Vienna as scientific collaborator
+  * Java development since 1997 at UT Vienna as scientific collaborator
   * Developer Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
-  * 7 Jahre web application development: https://github.com/haslinger
-  * 7 Jahre SAP-development
+  * 7 years web application development: https://github.com/haslinger
+  * 7 years SAP-development
   * University degree in physics, mathematics and computer science education
 * Sonja / marketing & community: https://www.waldgruber.at
-  * produkt management at Austria's largest ISPs (EuNet, A1)
-  * UX testing internship for university degree in psychology (cognition psychologie) und as a
+  * Product management at Austria's largest ISPs (EuNet, A1)
+  * UX testing internship for university degree in psychology (cognition psychology) as well as a
     consultant in the insurance business
-  * organisator _Chaos macht Schule_ Austria
-  * lector Privacy Week Austria, _Internet für alle_
+  * Organiser _Chaos macht Schule_ Austria
+  * lector (editor?) Privacy Week Austria, _Internet für alle_
   * University degrees in business and technology as well as psychology
 * Ramon / developer: http://ramonhuidobro.com/
-  * University education computer science
+  * University education: software engineering
   * Bachelor theses didactics of computer science
-  * organizer in the Viennese meetup scene for several years
-  * five years of Android- and web develoment
+  * Organiser in the Viennese meetup scene for several years
+  * Five years of Android- and web develoment
 * Heinz / Acceptance tests
-  * blind
-  * former head of the Austrian acoustic library for the war blind
-  * Doctor of law
+  * Blind
+  * Former head of the Austrian acoustic library for the war-blind
+  * Law Doctorate
 * Indigo / consulting
   * University degree in computer science, specialized in artificial intelligence
 
@@ -167,127 +166,127 @@ Development and operations of  Panoptikum.io:
 * meta informationen about the project: https://blog.panoptikum.io/
 * proof for continous development with more than 50 blog posts accompaning development: https://blog.panoptikum.io/blog/
 
-### 3.2 Unique Selling Proposition in Comparison with Existing Solutions of Other Vendors
+### 3.2 Unique Selling Point (USP) Compared with Existing Solutions from Other Vendors
 
-* initial touch anywhere on the screen starts speech interface (privacy concerns against continous
+* Initial touch anywhere on the screen starts voice interface (privacy concerns against continous
   monitoring)
-* no visus (ability to see) necessary
-* no proprietary hardware necessary, compatibility to a huge amount of Android driven smart phones
+* No vision necessary
+* No proprietary hardware necessary, compatibility with a huge amount of Android driven smart phones
   and tablets
-* all software written (including the Panoptikum directory) is open source and free software
+* All software written (including the Panoptikum.io directory) is open source and free software
 
 ### 3.3 Target groups
 
-We pick here only the biggest group of visually impaired, the application is usable for all people
-that are able to hear and speak:
+We pick here only the biggest group of visually impaired, however the application is open for all people
+that are able to hear and speak to use:
 
-* visually impaired in Austria \~ 318.000
-* visually impaired in Germany \~ 1.800.000
-* visually impaired world wide \~ 285.000.000
+* Visually impaired in Austria \~ 318.000
+* Visually impaired in Germany \~ 1.800.000
+* Visually impaired world wide \~ 285.000.000
 
 ### 3.4 Advantages for Users
 
-* after the initial installation, no visual user interfaces have to be used, speech input suffices
-* there is no need to learn a new skill for non technical people. Speech is a well known medium.
-* no propriatary hardware is necessary (as it would be in contrast e.g. for an Amazon Alexa Skill)
-* no accounts at the major platforms, that resell or reuse data commercially, are necessary
-  (Facebook, Google, Amazon)
+* After the initial installation, no visual user interface has to be used, voice input suffices
+* There is no need to learn a new skill for non-technical people. Speech is a well-known medium.
+* No propriatary hardware is necessary (in contrast to, for example, for an Amazon Alexa Skill)
+* No accounts at the major platforms that resell or reuse data commercially are necessary
+  (Facebook, Google, Amazon, etc.)
 
 ### 3.5 Sustainability
 
-* software will be AGPL 3 licensed, i.e. freely extendable, adaptable and updateable
+* Uoftware will be AGPL 3 licensed, i.e. freely extendable, adaptable and updateable.
 * AGPL garantees, that there will be no restrictions on later licensing conditions or prerequisits.
-* no restrictions by patents,
-* financing of platform operations and updates via
-  * donations
-  * pro accounts for podcasters using the Panoptikum backend
-* cooperations with content distributors and broadcasting corporations.
+* No restrictions by patents.
+* Financing of platform operations and updates via
+  * Donations
+  * Pro accounts for podcasters using the Panoptikum backend
+* Cooperation with content distributors and broadcasting corporations.
 
 Extensions after 2018 extending the area of podcasts:
 
-* internet radio streams (real time information, there are several thousand streams available)
-* audio content, that is not distributed via feeds, such as spoken Wikipedia
-* content from media centers, e.g. provided for the public by public broadcasting corporations
-* content from web pages, that already offer reading aloud services, that are only accessible
-  via web browsers up to now.
-* integration of content, that is currently distributed via Daisy(\~MP3)-CDs by libraries for
-  visually impaired
-* audio communication between users (voice chat)
+* Internet radio streams (real time information, there are several thousand streams available)
+* Audio content, that is not distributed via feeds, such as spoken Wikipedia
+* Content from media centers, e.g. provided for the public by public broadcasting corporations
+* Content from web pages, that already offer reading aloud services, that are only accessible
+  Via web browsers up to now.
+* Integration of content, that is currently distributed via Daisy(\~MP3)-CDs by libraries for
+  Visually impaired.
+* Audio communication between users (voice chat).
 
-combined: Access to all parts of the acoustic web
+Combined: Access to all parts of the acoustic web.
 
 ### 3.6 Intellectual Property
 
 All artifacts will be licensed under the AGPL3 license:
 
-* application source code on Github:https://github.com/PanoptikumIO/panodio: AGPL3
-* application compiled via the web site and in several app stores for download: AGPL3
+* Application source code on Github:https://github.com/PanoptikumIO/panodio: AGPL3
+* Application compiled via the web site and in several app stores for download: AGPL3
 
-dual licensed also via GPL FDL & CC4.0:
+Dual licensed also via GPL FDL & CC4.0:
 
 * Documentation for developers in the Github wiki: https://github.com/PanoptikumIO/panodio/wiki:
 * Documentation for users on the web site (https://panod.io)
-* Infomation for cooperating partners on the project web site
+* Information for cooperating partners on the project web site
 
-### 3.7 Opportunites for Cooperations with Interesting Scientific or Economic Aspects?
+### 3.7 Opportunites for Cooperation with Interesting Scientific or Economic Aspects?
 
-* libraries (for visually impaired)
-* broadcasting corporations
-* universities and universities of applied sciences (speech recognition, ux design)
-* municipalities that provide acoustic services already, e.g. City of Vienna
-* producers of aids to the blind (e.g. in Austria: Baum Retec GmbH)
-* podcast platforms: Google (Podcast Store, currently only in the US), Apple, Amazon, ...
+* Libraries (for visually impaired).
+* Broadcasting corporations.
+* Universities and universities of applied sciences (speech recognition, UX design).
+* Municipalities that already provide acoustic services, e.g. City of Vienna.
+* Producers of aids to the blind (for example, in Austria: Baum Retec GmbH).
+* Podcast platforms: Google (Podcast Store, currently only in the US), Apple, Amazon, etc.
 
 ### 3.8 Positive Aspects for Regional Policy
 
-Municipalities and other Institutions with reading services (e.g. City of Vienna) publish their
+Municipalities and other institutions with reading services (City of Vienna, for example) publish their
 audio content typically only in web pages browseable by web browsers. This content can be available
 via speech navigation with Panod.io
 
 ### 3.9 Are there any Noteworthy Social, Environmental or Public Spirited Aspects?
 
-* higher education (1000+ scientific podcasts) leads to better employability
-* a larger focus is set on the acoustic web, that is currently largely neglected (hardly anybody
-  knows about the spoken Wikipedia)
-* lots of persons, currently not being able to participate actively in the world wide web are no
-  longer excluded
+* Higher education (1000+ scientific podcasts) leads to better employability
+* A larger focus is set on the acoustic web, which is currently largely neglected (hardly anybody
+  knows about spoken Wikipedia)
+* Lots of persons currently not being able to participate actively in the world wide web would no
+  longer be excluded.
 
 ### 3.10 Which Particular Role Can this Project Take for "Closing the gender gap"?
 
-* speech interface leads to a low entrance barrier
-* better accessibility for elder, visually impaired people, or those not participating in the
-  internet yet
-* easy entrance to the world of podcasts with any previous technical knowledge
-* no training necessary, the device introduces itself and it's usage to the users
+* Voice interface leads to a low entrance barrier.
+* Better accessibility for elderly, visually impaired people, or those not yet participating in the
+  internet.
+* Easy entrance to the world of podcasts requiring little to no previous technical knowledge.
+* No training necessary, the device introduces itself and its usage to the users
 
 
 ### 3.11 Which Particular Relevance has "Privacy by Design"?
 
-* development guided by the principle of data sparsity
-* user data are only stored, if necessary, only on the device itself, and not in the web backend
-* there is no enforcement of real names in the backend
+* Development guided by the principle of data sparsity.
+* User data are only stored, if necessary, only on the device itself, and not in the web backend.
+* There is no enforcement of real names in the backend.
 
 <hr/>
 
-## 4 Projekt Costs
+## 4 Project Costs
 
 ### 4.1 Labor Costs in Hours
 
-| description | amount (hours) |
-| documentation - Stefan, Ramon and Sonja | 100|
-| tests - Heinz, Stefan and Ramon | 40|
-| marketing and community - Sonja | 200|
-| development - Stefan und Ramon | 950|
-| projekt lead - Stefan | 100|
-| sum | 1390|
+| Description | Amount (hours) |
+| Documentation - Stefan, Ramon and Sonja | 100|
+| Tests - Heinz, Stefan and Ramon | 40|
+| Marketing and community - Sonja | 200|
+| Development - Stefan und Ramon | 950|
+| Project lead - Stefan | 100|
+| Sum | 1390|
 {: .table .table-bordered}
 
 ### 4.2 Other Costs in EUR
 
-| description | amount (EUR) |
-| hosting, domain, mail service | 500|
-| print and production of marketing material (sticker, folder, shirts) | 1000|
-| travel expenses + congress tickets | 3000|
-| literature | 300|
-| sum | 4800|
+| Description | Amount (EUR) |
+| Hosting, domain, mail service | 500|
+| Print and production of marketing material (sticker, folder, shirts) | 1000|
+| Travel expenses + congress tickets | 3000|
+| Literature | 300|
+| Sum | 4800|
 {: .table .table-bordered}
