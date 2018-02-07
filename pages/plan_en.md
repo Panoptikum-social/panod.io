@@ -20,7 +20,7 @@ permalink: plan_en/
 ### 1.2 How is the Product Made Available to the Public?
 
 * Download an Android application with an voice interface for tablets and smartphones from the website
-  of the project as well as free app stores like F-Droid and the Google App (Play?) Store.
+  of the project as well as free app stores like F-Droid and the Google Play Store.
 * Audio interface removes barriers for physically challenged and visually impaired internet users.
 * Stores a minimal amount of data to provide access.
 * Pseudonymity — users are encouraged to make wrong statements on their names, or create several accounts
@@ -128,7 +128,7 @@ In the order of joining the project:
   * UX testing internship for university degree in psychology (cognition psychology) as well as a
     consultant in the insurance business
   * Organiser _Chaos macht Schule_ Austria
-  * lector (editor?) Privacy Week Austria, _Internet für alle_
+  * Speaker Privacy Week Austria, _Internet für alle_
   * University degrees in business and technology as well as psychology
 * Ramon / developer: http://ramonhuidobro.com/
   * University education: software engineering
