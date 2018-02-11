@@ -34,12 +34,12 @@ Momentan verfügen wir mit [Panoptikum.io](https://panoptikum.io) über eine Dat
 Episoden aus 30.000 Podcasts, unterschiedlichster Themen, Qualität, Länge und Sprachen. Menschen
 empfehlen und 'liken' Podcasts, Episoden und Kapitel. In den Metadaten und damit auch in den Show
 Notes kann per Suchmaschine nach Inhalten gesucht werden. Erste Podcaster:innen pflegen ihre
-Profile. Es handelt sich im Social Network mit dem Fokus auf Podcasts.
+Profile. Es handelt sich um ein Social Network mit dem Fokus auf Podcasts.
 
 Um Zugriff zu den Inhalten zu erlangen, ist es ist aber nötig, einen Webbrowser bedienen zu können,
-zum weiteren Abbonement der empfiehlt sich ein Smartphone mit Podcatcher.
+zum weiteren Abonnement der Podcasts empfiehlt sich ein Smartphone mit Podcatcher.
 
-Diese Aspekte sind nicht zufrieden stellend, da sie bedeutende Gruppen der Gesellschaft an der
+Diese Aspekte sind nicht zufriedenstellend, da sie bedeutende Gruppen der Gesellschaft von der
 Teilnahme gänzlich ausschließen. Wir alle sind in gewissen Situationen ausgeschlossen, etwa, wenn
 wir die Hände gerade nicht frei haben, egal ob wir ein Fahrzeug lenken, laufen, mit öligen Händen
 das Fahrrad reparieren oder in der Küche stehen.
@@ -57,7 +57,8 @@ gemacht. Diesen Plan finden Sie aktualisiert unter [Plan/DE](/plan_de).
 Falls Sie lieber, statt lange zu lesen, kurz sehen und hören möchten, wie wir spielerisch Panod.io
 erklären, klicken Sie auf das Video:
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=de&cc_load_policy=1&hl=de"></iframe>
+<iframe width="480" height="360"
+        src="https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=de&cc_load_policy=1&hl=de"></iframe>
 
 
 ## Unsere Vision
@@ -74,8 +75,8 @@ Unsere Vision hat einen Namen - Indigo. Indigo ist eine mögliche Ausformung ein
 zu schaffenden digitalen Bildungsassistent:in. Indigo soll für jeden Menschen jederzeit zur
 Verfügung stehen und bei der Aus-/Bildung im Sinne eine:r idealen Mentor:in unterstützten.
 
-Indigo wird in Kollaboration vieler Menschen entstanden, ihre Algorithmen und Daten sind Open Source
-bzw. Open Data. Wissenschaftler:innen aus vielen Bereichen werden bei der Entstehung beigetragen,
+Indigo wird in Kollaboration vieler Menschen entstehen, ihre Algorithmen und Daten sind Open Source
+bzw. Open Data. Wissenschaftler:innen aus vielen Bereichen werden bei der Entstehung beitragen,
 begleiten ihre Weiterentwicklung kontinuierlich und erforschen an ihr die erstmalige
 Entwicklung einer starken künstlichen Intelligenz.
 
@@ -93,7 +94,7 @@ Dabei sind viele Aspekte zu berücksichtigen, eine unvollständige Aufzählung:
 * Wissenschaftliches Wissen, Theorien und Modelle
 * Bildung und Ausbildung
 
-Ziel der Formulieren dieser Vision ist das Nachdenken über die Zukunft der Bildung anzuregen
+Ziel der Formulierung dieser Vision ist das Nachdenken über die Zukunft der Bildung anzuregen
 und das Finden von Menschen, die an Panod.io und später der Schaffung von Indigo mitwirken möchten.
 
 Aus Panod.io wird Indigo.
