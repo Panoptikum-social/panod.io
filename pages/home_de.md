@@ -11,7 +11,7 @@ Do you prefer the [English version](/)?
 
 # Panod.io
 
-> tl;dr: Es wird Zeit für Panod.io, mit Spracheingabe durch das akustische Web.
+> tl;dr: Wir arbeiten an Panod.io, einem Sprachinterface zum akustischen Web.
 
 
 ## Zusammenfassung
