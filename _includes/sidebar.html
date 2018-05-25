@@ -22,11 +22,15 @@
    href="http://creativecommons.org/licenses/by-sa/4.0/">
   <img alt="Creative Commons License"
        style="margin: 0px;"
-       src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+       src="/img/88x31.png" />
 </a>
 
 <br/><br/><br/>
 
 {% if site.twitter_nick %}
-  <a href="https://twitter.com/{{ site.twitter_nick }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter_nick }}</a>
+  <a href="https://twitter.com/{{ site.twitter_nick }}"
+   class="button btn-primary btn-sm"
+   data-show-count="false">
+  <i class="fa fa-twitter"></i>Follow @{{ site.twitter_nick }}
+</a>
 {% endif %}

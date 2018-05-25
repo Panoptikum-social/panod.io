@@ -38,9 +38,14 @@ Our plan is to create a voice interface to the acoustic web, that is, the audio 
 
 We had started with an elaborate project plan — originally designed for an application for project support. This plan is available for you at [Plan/EN](/plan_en), if you are interested in the details.
 
-Should video be more your thing instead of reading a long piece of text, check out how we playfully present Panod.io in the video below:
+Should video be more your thing instead of reading a long piece of text, check out how we playfully present Panod.io in the video below.
+The video is in German, so if you'd prefer to watch it with English subtitles, they are available
+on our [Youtube Version](https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=en&cc_load_policy=1&hl=en).
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=en&cc_load_policy=1&hl=en"></iframe>
+<video controls>
+  <source src="/video/intro.mp4" type="video/mp4">
+  I'm sorry; your browser doesn't support HTML5 video in WebM with VP8/VP9 or MP4 with H.264.
+</video>
 
 ## Our vision
 
