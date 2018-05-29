@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: Datenschutzerklärung/DE
 layout: page
 navigation: 97
 permalink: privacy_de/
