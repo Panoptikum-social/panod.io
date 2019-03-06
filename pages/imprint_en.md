@@ -15,7 +15,7 @@ Vorgartenstraße 145/2/3<br/>
 Austria
 
 Twitter: [@panodio](https://www.twitter.com/panodio)<br/>
-Email: <stefan@panodio.io>
+Email: <stefan@panod.io>
 
 
 ## License
