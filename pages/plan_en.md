@@ -12,7 +12,7 @@ permalink: plan_en/
 ### 1.1 Relevance for the Internet
 
 * Providing better access to user groups who have not had barrier-free access to the WWW and the acoustic web, A.K.A. podcasts.
-* Panod.io uses data of the currently existing platform Panoptikum https://panoptikum.io, which is
+* Panodio uses data of the currently existing platform Panoptikum https://panoptikum.social, which is
   developed, maintained and hosted in Austria by the project team.
 * Further exposure of local active podcasters to international audiences.
 
@@ -33,8 +33,8 @@ permalink: plan_en/
 * Planned talks at conferences: A-Tag'18, Subscribe(s), 35C3, Re:Publica, Podcasting Meetup,
   Privacy Week, other meetups in the meetup scene in Vienna: Project Night, Webclerks, Android Heads
   Meetup Vienna, etc.
-* Distribution via the podcasting community, that is, the podcasters who are Panoptikum.io users
-* Making use of the existing platform and community of Panoptikum.io.
+* Distribution via the podcasting community, that is, the podcasters who are Panoptikum.social users
+* Making use of the existing platform and community of Panoptikum.social.
 * Project homepage.
 * Österreichischer Blindenverband, Hilfsgemeinschaft der Blinden und Sehschwachen Ö.s, libraries for the
   blind in Austria and Germany.
@@ -57,7 +57,7 @@ permalink: plan_en/
 
 * Speech-to-text — users have to be able to speak and talk are the only prerequisites.
 * Natural Language Processing (NLP) used to recognize the intent.
-* Search for desired content within Panoptikum.io and verbal presentation of the search results.
+* Search for desired content within Panoptikum.social and verbal presentation of the search results.
 * Playback or appending to a playlist.
 
 ### 2.3 Solutions and Suggestions
@@ -65,7 +65,7 @@ permalink: plan_en/
 * Android speech-to-text API.
 * Speech recognition — Natural Language Processing (NLP).
 * Android application (wide adoption of devices, high availability for reasonably priced devices).
-* Requests to the Panoptikum.io's database via web requests (API).
+* Requests to the Panoptikum.social's database via web requests (API).
 * Smartphones (small, headphone usage, small/loud speakers, usage off the power grid).
 * Tablets (bigger, better sounding load speakers, usage off the power grid)
 
@@ -119,7 +119,7 @@ In the order of joining the project:
 
 * Stefan / projekt lead und development: https://stefan-haslinger.at/cv
   * Java development since 1997 at UT Vienna as scientific collaborator
-  * Developer Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
+  * Developer Panoptikum: https://panoptikum.social/ - https://github.com/PanoptikumIO
   * 7 years web application development: https://github.com/haslinger
   * 7 years SAP-development
   * University degree in physics, mathematics and computer science education
@@ -160,11 +160,11 @@ In the order of joining the project:
 
 ### 3.1 Current Activities in the Project Area
 
-Development and operations of  Panoptikum.io:
+Development and operations of  Panoptikum.social:
 
-* podcast directory, search engine and social network: https://panoptikum.io/
-* meta informationen about the project: https://blog.panoptikum.io/
-* proof for continous development with more than 50 blog posts accompaning development: https://blog.panoptikum.io/blog/
+* podcast directory, search engine and social network: https://panoptikum.social/
+* meta informationen about the project: https://blog.panoptikum.social/
+* proof for continous development with more than 50 blog posts accompaning development: https://blog.panoptikum.social/blog/
 
 ### 3.2 Unique Selling Point (USP) Compared with Existing Solutions from Other Vendors
 
@@ -173,7 +173,7 @@ Development and operations of  Panoptikum.io:
 * No vision necessary
 * No proprietary hardware necessary, compatibility with a huge amount of Android driven smart phones
   and tablets
-* All software written (including the Panoptikum.io directory) is open source and free software
+* All software written (including the Panoptikum.social directory) is open source and free software
 
 ### 3.3 Target groups
 
@@ -225,7 +225,7 @@ All artifacts will be licensed under the AGPL3 license:
 Dual licensed also via GPL FDL & CC4.0:
 
 * Documentation for developers in the Github wiki: https://github.com/PanoptikumIO/panodio/wiki:
-* Documentation for users on the web site (https://panod.io)
+* Documentation for users on the web site (https://panodio.panoptikum.social)
 * Information for cooperating partners on the project web site
 
 ### 3.7 Opportunites for Cooperation with Interesting Scientific or Economic Aspects?
@@ -241,7 +241,7 @@ Dual licensed also via GPL FDL & CC4.0:
 
 Municipalities and other institutions with reading services (City of Vienna, for example) publish their
 audio content typically only in web pages browseable by web browsers. This content can be available
-via speech navigation with Panod.io
+via speech navigation with Panodio.
 
 ### 3.9 Are there any Noteworthy Social, Environmental or Public Spirited Aspects?
 

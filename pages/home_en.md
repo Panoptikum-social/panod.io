@@ -8,17 +8,16 @@ permalink: /
 Möchten Sie lieber die [Deutsche Version](/home_de)?
 {: class="text-center"}
 
-# Panod.io
+# Panodio.Panoptikum.social
 
-> tl;dr: The time has come for Panod.io, an audio-only interface to the acoustic web.
-
+> tl;dr: The time has come for Panodio, an audio-only interface to the acoustic web.
 
 ## Management Summary
 
-Panod.io is going to be an Android application, running on all sorts of smartphones and tablets,
+Panodio is going to be an Android application, running on all sorts of smartphones and tablets,
 providing an audio-only interface for humans to access data on the acoustic web.
 
-The first data source is going to be Panoptikum.io, a database with over 1,800,000 episodes from over
+The first data source is going to be Panoptikum.social, a database with over 1,800,000 episodes from over
 30,000 podcasts.
 
 Being an voice interface, it empowers humans who are not able to use web browsers, smartphones
@@ -26,7 +25,7 @@ or tablets to access the huge amount of audio content available on the world wid
 
 ## Current State
 
-Currently, with [Panoptikum.io](https://panoptikum.io) we own a data source of more than 1.8 million episodes from more than 30,000 podcasts with the most diverse topics, quality, length and languages. People can recommend as well as like podcasts, episodes and chapters. All the metadata (also including show notes) is searchable with arbitrary search terms using a proper search engine.
+Currently, with [Panoptikum.social](https://panoptikum.social) we own a data source of more than 1.8 million episodes from more than 30,000 podcasts with the most diverse topics, quality, length and languages. People can recommend as well as like podcasts, episodes and chapters. All the metadata (also including show notes) is searchable with arbitrary search terms using a proper search engine.
 
 To access this, it is still necessary to operate a web browser, and a podcatcher application on a smartphone is recommended to subscribe.
 
@@ -38,7 +37,7 @@ Our plan is to create a voice interface to the acoustic web, that is, the audio 
 
 We had started with an elaborate project plan — originally designed for an application for project support. This plan is available for you at [Plan/EN](/plan_en), if you are interested in the details.
 
-Should video be more your thing instead of reading a long piece of text, check out how we playfully present Panod.io in the video below.
+Should video be more your thing instead of reading a long piece of text, check out how we playfully present Panodio in the video below.
 The video is in German, so if you'd prefer to watch it with English subtitles, they are available
 on our [Youtube Version](https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=en&cc_load_policy=1&hl=en).
 
@@ -79,4 +78,4 @@ Many of her aspects have to be taken into consideration, an incomplete list coul
 The goal of laying out this vision is to encourage thinking about the future of education and finding people
 and organisations who are interested in this and wish to collaborate on the creation of Indigo.
 
-Panod.io will eventually become Indigo.
+Panodio will eventually become Indigo.

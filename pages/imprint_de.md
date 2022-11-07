@@ -15,7 +15,7 @@ Vorgartenstraße 145/2/3<br/>
 Austria
 
 Twitter: [@panodio](https://www.twitter.com/panodio)<br/>
-Email: <stefan@panod.io>
+Email: <stefan@panoptikum.social>
 
 
 ## Lizenz
@@ -37,5 +37,5 @@ Email: <stefan@panod.io>
 
 ## Hosting
 
-Panod.io wird gehostet von den
+Panodio wird gehostet von den
 <a href="https://www.informatom.com">Informatom EDV-Dienstleistungen e.U.</a>

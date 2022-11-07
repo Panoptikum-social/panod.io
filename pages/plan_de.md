@@ -14,8 +14,8 @@ permalink: plan_de/
 
 * Usergruppen, denen das WWW bislang verwehrt ist, erhalten einen barrierefreien Zugang zum
   Acoustic Web, a.k.a. Podcasts
-* Panod.io verwendet die Daten der bereits existierenden und in Österreich durch das Projektteam
-  entwickelten und betriebenen Plattform Panoptikum https://panoptikum.io
+* Panodio verwendet die Daten der bereits existierenden und in Österreich durch das Projektteam
+  entwickelten und betriebenen Plattform Panoptikum https://panoptikum.social
 * Es kommt zu einer weiteren Vernetzung lokal agierenden Podcaster:innen mit internationalem Publikum
 
 ### 1.2 So wird das Ergebnis der Öffentlichkeit zur Verfügung gestellt
@@ -118,7 +118,7 @@ in der Reihenfolge des Projekteintrittes:
 
 * Stefan / Projektleitung und Entwicklung: https://stefan-haslinger.at/cv
   * Java Entwicklung ab 1997 an TU Wien als wiss. Mitarbeiter
-  * Entwicklung Panoptikum: https://panoptikum.io/ - https://github.com/PanoptikumIO
+  * Entwicklung Panoptikum: https://panoptikum.social/ - https://github.com/PanoptikumIO
   * 7 Jahre Webapplikationentwicklung: https://github.com/haslinger
   * 7 Jahre SAP-Entwicklung
   * Studium PH, M, INF Lehramt
@@ -158,11 +158,11 @@ in der Reihenfolge des Projekteintrittes:
 
 ### 3.1 Derzeitige Aktivitäten im Projektbereich
 
-Entwicklung und Betrieb von Panoptikum.io:
+Entwicklung und Betrieb von Panoptikum.social:
 
-* Podcast-Verzeichnis, Suchmaschine und Social Network: https://panoptikum.io/
-* Metainformationen auf: https://blog.panoptikum.io/
-* Beleg für kontinuierliche Entwicklung im wöchentlichen Blog: https://blog.panoptikum.io/blog/
+* Podcast-Verzeichnis, Suchmaschine und Social Network: https://panoptikum.social/
+* Metainformationen auf: https://blog.panoptikum.social/
+* Beleg für kontinuierliche Entwicklung im wöchentlichen Blog: https://blog.panoptikum.social/blog/
 
 ### 3.2 Unser USP im Vergleich zu bereits vorhandenen Lösungen anderer Anbieter
 
@@ -221,7 +221,7 @@ Sämtliche Artefakte werden unter der AGPL3 publiziert:
 zusätzlich als GPL FDL & CC4.0:
 
 * Doku für Entwickler:innen im Github Wiki: https://github.com/PanoptikumIO/panodio/wiki:
-* Doku für Anwender:innen auf der Webseite (https://panod.io)
+* Doku für Anwender:innen auf der Webseite (https://panodio.panoptikum.social)
 * Infomaterialien für Kooperationspartner auf der Webseite des Projektes
 
 ### 3.7 Ergeben sich wirtschaftlich oder wissenschaftlich interessante Kooperationen?

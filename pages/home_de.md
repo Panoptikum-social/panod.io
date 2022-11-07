@@ -8,29 +8,26 @@ permalink: home_de/
 Do you prefer the [English version](/)?
 {: class="text-center"}
 
+# Panodio.Panoptikum.social
 
-# Panod.io
-
-> tl;dr: Wir arbeiten an Panod.io, einem Sprachinterface zum akustischen Web.
-
+> tl;dr: Wir arbeiten an Panodio, einem Sprachinterface zum akustischen Web.
 
 ## Zusammenfassung
 
-Panod.io wird eine Android Applikation, die auf unterschiedlichsten Tabletts und Smartphones
+Panodio wird eine Android Applikation, die auf unterschiedlichsten Tabletts und Smartphones
 laufen wird, die ausschließlich durch Spracheingabe allen Menschen das akustische Web erschließen
 wird.
 
-Die erste Datenquelle wird Panoptikum.io darstellen, eine Datenbank mit mehr als 1.800.000 Episoden
+Die erste Datenquelle wird Panoptikum.social darstellen, eine Datenbank mit mehr als 1.800.000 Episoden
 aus mehr als 30.000 Podcasts.
 
-Indem es wirklich ausschließlich durch Sprache bedient wird, erschließt Panod.io vielen Menschen,
+Indem es wirklich ausschließlich durch Sprache bedient wird, erschließt Panodio vielen Menschen,
 die Webbrowser, Smartphones oder Tabletts nicht bedienen konnten, die gewaltige Menge an
 Audio-Inhalten des World Wide Webs.
 
-
 ## Aktueller Stand
 
-Momentan verfügen wir mit [Panoptikum.io](https://panoptikum.io) über eine Datenquelle von 1.800.000
+Momentan verfügen wir mit [Panoptikum.social](https://panoptikum.social) über eine Datenquelle von 1.800.000
 Episoden aus 30.000 Podcasts, unterschiedlichster Themen, Qualität, Länge und Sprachen. Menschen
 empfehlen und 'liken' Podcasts, Episoden und Kapitel. In den Metadaten und damit auch in den Show
 Notes kann per Suchmaschine nach Inhalten gesucht werden. Erste Podcaster:innen pflegen ihre
@@ -44,7 +41,6 @@ Teilnahme gänzlich ausschließen. Wir alle sind in gewissen Situationen ausgesc
 wir die Hände gerade nicht frei haben, egal ob wir ein Fahrzeug lenken, laufen, mit öligen Händen
 das Fahrrad reparieren oder in der Küche stehen.
 
-
 ## Unser Plan
 
 Unser Plan ist es, ein Audiointerface zum akustischen Web, also den Audioinhalten im Internet zu
@@ -54,7 +50,7 @@ zu Sprache Umwandlung) zugänglich machen.
 Wir haben - ursprünglich für einen Projektförderantrag gedacht - einen ausführlichen Projektplan
 gemacht. Diesen Plan finden Sie aktualisiert unter [Plan/DE](/plan_de).
 
-Falls Sie lieber, statt lange zu lesen, kurz sehen und hören möchten, wie wir spielerisch Panod.io
+Falls Sie lieber, statt lange zu lesen, kurz sehen und hören möchten, wie wir spielerisch Panodio
 erklären, klicken Sie auf das Video:
 
 <video controls>
@@ -96,6 +92,6 @@ Dabei sind viele Aspekte zu berücksichtigen, eine unvollständige Aufzählung:
 * Bildung und Ausbildung
 
 Ziel der Formulierung dieser Vision ist das Nachdenken über die Zukunft der Bildung anzuregen
-und das Finden von Menschen, die an Panod.io und später der Schaffung von Indigo mitwirken möchten.
+und das Finden von Menschen, die an Panodio und später der Schaffung von Indigo mitwirken möchten.
 
-Aus Panod.io wird Indigo.
+Aus Panodio wird Indigo.
