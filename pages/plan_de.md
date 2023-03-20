@@ -1,12 +1,10 @@
 ---
-title: Plan/DE
+title: Unser Plan
 layout: default
 navigation: 3
 permalink: plan_de/
+language: de
 ---
-
-# Unser Plan
-
 
 ## 1 Projektcharakteristik
 

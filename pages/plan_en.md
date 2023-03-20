@@ -1,11 +1,9 @@
 ---
-title: Plan/EN
+title: Our Plan
 layout: default
 navigation: 2
 permalink: plan_en/
 ---
-
-# Our Plan
 
 ## 1 Project Characteristics
 

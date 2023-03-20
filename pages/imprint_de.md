@@ -1,11 +1,10 @@
 ---
-title: Impressum/DE
+title: Impressum
 layout: default
 navigation: 99
 permalink: imprint_de/
+language: de
 ---
-
-# Impressum
 
 ## Medieninhaber und Inhalt
 

@@ -1,14 +1,14 @@
 ---
-title: Home/DE
+title: Panodio.Panoptikum.social
+menu_item: Home
 layout: default
 navigation: 1
 permalink: home_de/
+language: de
 ---
 
 Do you prefer the [English version](/)?
 {: class="text-center"}
-
-# Panodio.Panoptikum.social
 
 > tl;dr: Wir arbeiten an Panodio, einem Sprachinterface zum akustischen Web.
 

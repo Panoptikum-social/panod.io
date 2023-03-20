@@ -1,76 +1,39 @@
 <!DOCTYPE html>
-<html lang="{{ site.language }}">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{ site.title }} - {{ page.title | otherwise:site.subtitle }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% if site.description %}<meta name="description" content="{{ site.description | markdownify | strip_html }}">{% endif %}
-  {% if site.author %}<meta name="author" content="{{ site.author }}">{% endif %}
+{% if page.language %}
+{% assign language = page.language %}
+{% else %}
+{% assign language = site.language %}
+{% endif %}
+<html lang="{{ language }}">
+{% include head.html %}
 
-  <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/general_feed.xml" title="General Site Atom Feed (No Podcast Metadata!)" />
-  {{ site | episode_feeds_html }}
+<body class="font-mono">
+  <div class="w-screen min-h-screen bg-background text-primary">
 
-  <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/custom_styles.css" />
+    <header x-data="{ menu_open: false }" class="bg-background_secondary">
+      {% include nav.html %}
+      {% include mobile_menu.html %}
+    </header>
 
-  <script type='text/javascript' src="{{ site.url }}/assets/js/jquery.min.js"></script>
-  <script type='text/javascript' src="{{ site.url }}/assets/js/bootstrap.min.js"></script>
-  <script type='text/javascript' src="{{ site.url }}/assets/js/icheck.min.js"></script>
-  <script type='text/javascript' src="{{ site.url }}/assets/js/jquery.fs.selecter.min.js"></script>
-  <script type='text/javascript' src="{{ site.url }}/assets/js/jquery.fs.stepper.min.js"></script>
-  <script type='text/javascript' src="{{ site.url }}/assets/js/custom.js"></script>
-
-  {% if site.flattr_uid %}{% include flattr_loader.html %}{% endif %}
-  {% if site.disqus_shortname %}
-  <script>
-    {{ site | disqus_config }}
-  </script>
-  {% endif %}
-</head>
-
-<body>
-  <div class="container-fluid">
-    <nav class="navbar navbar-default">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a href="{{ site.url }}" class="navbar-brand"><img src="/img/icon.png" width="40" style="margin-top: -10px;"></a>
-          <b><a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a></b>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            {{ site | navigation_list:page }}
-          </ul>
-        </div><!--/.nav-collapse -->
+    <div class="mx-auto flex max-w-7xl gap-x-10 p-6 lg:px-8 justify-between ">
+      <article class="prose prose-invert prose-headings:text-accent max-w-4xl leading-normal">
+        <h1 class="my-4 text-3xl"> {{ page.title }} </h1>
+        {{ content }}
+      </article>
+      <div id="sidebar" class="w-96">
+        <div class="well">{% include sidebar.html %}</div>
       </div>
-    </nav>
+    </div>
 
-    <div class="container">
-      <div class="row ">
-        <div class="col-sm-8">
-          <div class="content">
-            {{ content }}
-          </div>
-        </div>
-        <div id="sidebar" class="col-sm-4">
-          <div class="well">
-            {% include sidebar.html %}
-          </div>
-        </div>
-      </div>
-      <div class="row" id="footer">
-        <small class="pull-right">
-          Powered by <a href="https://jekyll-octopod.github.io/">jekyll-octopod</a>
-          and <a href="http://jekyllrb.com/">Jekyll</a>.
-        </small>
-      </div>
-    </div><!-- /.container -->
-  </div><!-- /.container -->
+    <div class="flex justify-end p-6 lg:px-8" id="footer">
+      <small>
+        Powered by
+        <a class="text-link hover:text-link_hover" href="https://jekyllrb.com/">Jekyll</a>, hosted and supported by 
+        <a class="text-link hover:text-link_hover" href="https://informatom.com">Informatom EDV-Diensteleistungen e.U.</a>
+      </small>
+    </div>
+  </div>
+</body>
+
 </html>

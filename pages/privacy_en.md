@@ -1,5 +1,5 @@
 ---
-title: Privacy/EN
+title: Privacy
 layout: page
 navigation: 96
 permalink: privacy_en/

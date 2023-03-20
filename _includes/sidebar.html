@@ -1,36 +1,37 @@
-<div class="page-header">
-  <h3>
+<div class="bg-background_secondary p-4">
+  <h3 class="text-2xl text-accent">
     {{ site.title }}
-    {% if site.subtitle %}<br/><small>{{ site.subtitle }}</small>{% endif %}
-  </h3>
+    </h2>
+    {% if site.subtitle %}
+    <h3 class="text-accent">{{ site.subtitle }}</h3>
+    {% endif %}
+
+    <p class="text-center my-4">
+      <a href="{{ site.url }}"><img src="/img/logo.png" width="200"></a>
+    </p>
+
+    <ul>
+      <li>Home <a class="text-link hover:text-link_hover" href="/"> English</a> / <a
+          class="text-link hover:text-link_hover" href="/home_de">Deutsch</a></li>
+      <li>Plan <a class="text-link hover:text-link_hover" href="/plan_en">English</a> / <a
+          class="text-link hover:text-link_hover" href="/plan_de">Deutsch</a></li>
+      <li><a class="text-link hover:text-link_hover" href="/imprint_en">Imprint</a> / <a class="text-link hover:text-link_hover" href="/imprint_de">Impressum</a>
+      </li>
+    </ul>
+
+
+    <h4 class="text-lg text-accent my-4">License</h4>
+
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" class="my-4">
+      <img alt="Creative Commons License" src="/img/88x31.png" />
+    </a>
+
+    {% if site.twitter_username %}
+    <div class="my-4">
+      Follow us on Twitter:
+      <a href="https://twitter.com/{{ site.twitter_nick }}" class="text-link hover:text-link_hover" data-show-count="false">
+        @{{ site.twitter_username }}
+      </a>
+    </div>
+    {% endif %}
 </div>
-
-<p class="text-center">
-  <a href="{{ site.url }}"><img src="/img/logo.png" width="200"></a>
-</p>
-
-<ul>
-  <li>Home <a href="/"> English</a> / <a href="/home_de">Deutsch</a></li>
-  <li>Plan <a href="/plan_en">English</a> / <a href="/plan_de">Deutsch</a></li>
-  <li><a href="/imprint_en">Imprint</a> / <a href="/imprint_de">Impressum</a></li>
-</ul>
-
-
-<h4>License</h4>
-
-<a rel="license"
-   href="http://creativecommons.org/licenses/by-sa/4.0/">
-  <img alt="Creative Commons License"
-       style="margin: 0px;"
-       src="/img/88x31.png" />
-</a>
-
-<br/><br/><br/>
-
-{% if site.twitter_nick %}
-  <a href="https://twitter.com/{{ site.twitter_nick }}"
-   class="button btn-primary btn-sm"
-   data-show-count="false">
-  <i class="fa fa-twitter"></i>Follow @{{ site.twitter_nick }}
-</a>
-{% endif %}

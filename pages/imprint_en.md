@@ -1,11 +1,9 @@
 ---
-title: Imprint/EN
+title: Imprint
 layout: default
 navigation: 98
 permalink: imprint_en/
 ---
-
-# Imprint
 
 ## Media Owner and Content
 
@@ -33,7 +31,6 @@ Email: <stefan@panoptikum.social>
        style="margin: 0px;"
        src="/img/88x31.png" />
 </a>
-
 
 ## Hosting
 

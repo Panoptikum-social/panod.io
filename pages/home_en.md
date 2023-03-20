@@ -1,5 +1,6 @@
 ---
-title: Home/EN
+title: Panodio.Panoptikum.social
+menu_item: Home
 layout: default
 navigation: 0
 permalink: /
@@ -7,8 +8,6 @@ permalink: /
 
 Möchten Sie lieber die [Deutsche Version](/home_de)?
 {: class="text-center"}
-
-# Panodio.Panoptikum.social
 
 > tl;dr: The time has come for Panodio, an audio-only interface to the acoustic web.
 

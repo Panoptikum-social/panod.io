@@ -1,21 +1,20 @@
 ---
-title: Datenschutzerklärung/DE
+title: Datenschutzerklärung
 layout: page
 navigation: 97
 permalink: privacy_de/
+language: de
 ---
 
 Der Schutz Ihrer persönlichen Daten ist uns wichtig. Wir verarbeiten Ihre Daten daher ausschließlich
 auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen
 informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
 
-
 ## Kommunikation mit uns
 
 Wenn Sie per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der
 Anfrage und für den Fall von Anschlussfragen sechs Monate bei uns gespeichert. Diese Daten geben
 wir nicht weiter.
-
 
 ## Logging
 
@@ -30,7 +29,6 @@ Webseite folgende Daten:
 Diese Webseite verwendet weder Cookies noch einen Webanalysedienst oder ein Content Delivery Network.
 Es werden keine Daten an Dritte übertragen.
 
-
 ## Ihre Rechte
 
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung,
@@ -38,7 +36,6 @@ Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die V
 Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in
 einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich
 ist dies die [Datenschutzbehörde](https://www.dsb.gv.at/).
-
 
 ## Kontakt
 

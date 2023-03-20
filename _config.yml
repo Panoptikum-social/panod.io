@@ -1,23 +1,41 @@
-title: Panodio.Panoptikum.social
-url: https://panodio.panoptikum.social
-download_url: "https://panodio.panoptikum.social/episodes"
+# Site settings
+# Variables are accessible in the templates via {{ site.myvariable }}.
+
+title: Panodio
 subtitle: An audio interface to the acoustic web
-description: And maybe an agent to all of the audio resources on the Web
+description: >- 
+  And maybe an agent to all of the audio resources on the Web
+baseurl: ""
+url: https://panodio.panoptikum.social
+email: stefan@panoptikum.social
+twitter_username: panodio
+github_username:  haslinger
+
+language: en
+keywords: [audio, podcast, interface, android]
+license: AGPL3
+
 author: Stefan Haslinger
 author_url: "https://panoptikum.social/informatom"
-email: stefan@panoptikum.social
-keywords: [audio, podcast, interface, android]
-itunes_categories: [Technology]
-episodes_per_feed_page: 100
-date_format: "ordinal"
-rsync_delete: true
-twitter_nick: panodio
-language: en
-explicit: "no" # 'yes'/'no'/clean
-license: AGPL3
-itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
-## Isso comments #########################################################
-use_isso: no # set to 'yes' to include isso comments form
+date_format: ordinal
 
-plugins: [jekyll-octopod]
-theme: jekyll-bootflat
+plugins:
+  - jekyll-feed
+  - jekyll-postcss-v2
+
+exclude:
+  - README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - package-lock.json
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
