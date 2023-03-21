@@ -21,7 +21,7 @@ module Jekyll
       color = is_active ? "text-link_active hover:text-link_active_hover" : "text-link hover:text-link_hover"
     
       if is_mobile
-        "<a href='#{url}' class='#{color} -mx-3 block rounded-lg py-2 px-3 text-base font-semibold'>#{page_title}</a>"
+        "<a href='#{url}' class='#{color} -mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7'>#{page_title}</a>"
       else
         "<a href='#{url}' class='#{color} font-semibold'>#{page_title}</a>"
       end

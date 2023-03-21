@@ -10,7 +10,7 @@
       </a>
       <button type="button" @click="menu_open = false" class="-m-2.5 rounded-md p-2.5 text-white">
         <span class="sr-only">Menü schließen</span>
-        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
+        <svg class="h-6 w-6 text-white" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
           aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
         </svg>
@@ -19,7 +19,8 @@
     <div class="mt-6 flow-root">
       <div class="-my-6 divide-y divide-gray-500/10">
         <div class="space-y-2 py-6">
-          {{ page | navigation_list_items: page.language || site.language, true }}
+          {% assign language = page.language | otherwise: site.language %}
+          {{ page | navigation_list_items: language, true }}
         </div>
       </div>
     </div>

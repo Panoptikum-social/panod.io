@@ -1,5 +1,5 @@
 ---
-title: Panodio.Panoptikum.social
+title: Panodio @Panoptikum.social
 menu_item: Home
 layout: default
 navigation: 0
@@ -40,7 +40,7 @@ Should video be more your thing instead of reading a long piece of text, check o
 The video is in German, so if you'd prefer to watch it with English subtitles, they are available
 on our [Youtube Version](https://www.youtube.com/embed/6qM2ztyehzc?cc_lang_pref=en&cc_load_policy=1&hl=en).
 
-<video controls>
+<video controls class="w-4/5 md:w-auto">
   <source src="/video/intro.mp4" type="video/mp4">
   I'm sorry; your browser doesn't support HTML5 video in WebM with VP8/VP9 or MP4 with H.264.
 </video>

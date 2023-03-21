@@ -1,5 +1,5 @@
 ---
-title: Panodio.Panoptikum.social
+title: Panodio @Panoptikum.social
 menu_item: Home
 layout: default
 navigation: 1
@@ -53,7 +53,7 @@ gemacht. Diesen Plan finden Sie aktualisiert unter [Plan/DE](/plan_de).
 Falls Sie lieber, statt lange zu lesen, kurz sehen und hören möchten, wie wir spielerisch Panodio
 erklären, klicken Sie auf das Video:
 
-<video controls>
+<video controls class="w-4/5 md:w-auto">
   <source src="/video/intro.mp4" type="video/mp4">
   Ihr Browser unterstützt leider kein HTML5 video im MP4 format.
 </video>
